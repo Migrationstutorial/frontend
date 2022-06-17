@@ -46,6 +46,7 @@ export const Einbuergerungstest = () => {
                                 <br /><br />
                                 {testQuestion.question}  
                                 <span style={{marginLeft:"10px", color:"brown"}}>{testQuestion.question === text.substring( 0, text.indexOf(">")) && translatedText[0]}</span>
+                                
                                 <div className="answer">
                                 {testQuestion.correctAnswer}
                                 <span style={{marginLeft:"10px", color:"brown"}}>{testQuestion.correctAnswer === text.substring( text.indexOf(">")+1, text.length) && translatedText[1]}</span>

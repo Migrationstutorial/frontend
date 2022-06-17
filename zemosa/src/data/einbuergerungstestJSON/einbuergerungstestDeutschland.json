@@ -8,7 +8,10 @@
         "answerC": "die Menschen das Wahlrecht haben.",
         "answerD": "hier Meinungsfreiheit gilt.",
         "correctAnswer": "hier Meinungsfreiheit gilt.",
-        "explanation": "Die Möglichkeit etwas gegen die Regierung sagen zu können ohne sich in Gefahr zu bringen wird in Deutschland durch die Meinungsfreiheit im Grundgesetz in Artikel 5 garantiert.Die Religionsfreiheit und das Wahlrecht sind zwar ebenso die Rechte eines jeden deutschen Bürgers. Ebenso wie die Pflicht zur Steuerabgabe haben sie jedoch keinen Einfluss auf die Meinungsfreiheit."
+        "explanation": "Die Möglichkeit etwas gegen die Regierung sagen zu können ohne sich in Gefahr zu bringen wird in Deutschland durch die Meinungsfreiheit im Grundgesetz in Artikel 5 garantiert.Die Religionsfreiheit und das Wahlrecht sind zwar ebenso die Rechte eines jeden deutschen Bürgers. Ebenso wie die Pflicht zur Steuerabgabe haben sie jedoch keinen Einfluss auf die Meinungsfreiheit.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 2",
@@ -19,7 +22,10 @@
         "answerC": "Politikunterricht teilnimmt.",
         "answerD": "Sprachunterricht teilnimmt.",
         "correctAnswer": "Religionsunterricht teilnimmt.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 3",
@@ -30,7 +36,10 @@
         "answerC": "Nur Deutsche müssen die Gesetze befolgen.",
         "answerD": "Die Gerichte machen die Gesetze.",
         "correctAnswer": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 4",
@@ -41,7 +50,10 @@
         "answerC": "Meinungsfreiheit",
         "answerD": "Selbstjustiz",
         "correctAnswer": "Meinungsfreiheit",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 5",
@@ -52,7 +64,10 @@
         "answerC": "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
         "answerD": "",
         "correctAnswer": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
-        "explanation": "Alle wahlberechtigten Personen müssen wählen."
+        "explanation": "Alle wahlberechtigten Personen müssen wählen.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 6",
@@ -63,7 +78,10 @@
         "answerC": "Deutsches Gesetz",
         "answerD": "Grundgesetz",
         "correctAnswer": "Grundgesetz",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 7",
@@ -74,7 +92,10 @@
         "answerC": "Arbeit",
         "answerD": "Wohnung",
         "correctAnswer": "Glaubens- und Gewissensfreiheit",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 8",
@@ -85,7 +106,10 @@
         "answerC": "Jeder Mensch darf seine Meinung sagen.",
         "answerD": "Alle sind vor dem Gesetz gleich.",
         "correctAnswer": "Alle sollen gleich viel Geld haben.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 9",
@@ -96,7 +120,10 @@
         "answerC": "Asyl",
         "answerD": "Meinungsfreiheit",
         "correctAnswer": "Asyl",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 10",
@@ -107,7 +134,10 @@
         "answerC": "die Todesstrafe",
         "answerD": "die Geldstrafe",
         "correctAnswer": "die Geldstrafe",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 11",
@@ -118,7 +148,10 @@
         "answerC": "Gesetzbuch",
         "answerD": "Verfassungsvertrag",
         "correctAnswer": "Grundgesetz",
-        "explanation": "Die Verfassung der Bundesrepublik Deutschland wird als Grundgesetz bezeichnet."
+        "explanation": "Die Verfassung der Bundesrepublik Deutschland wird als Grundgesetz bezeichnet.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 12",
@@ -129,7 +162,10 @@
         "answerC": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
         "answerD": "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen.",
         "correctAnswer": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 13",
@@ -140,7 +176,10 @@
         "answerC": "die Fraktion mit den meisten Abgeordneten.",
         "answerD": "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
         "correctAnswer": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
-        "explanation": "Opposition entstammte von dem lateinischen Wort oppositio (Entgegensetzung) und bezeichnet in der Politik alle Abgeordneten, die nicht den regierenden Parteien angehören."
+        "explanation": "Opposition entstammte von dem lateinischen Wort oppositio (Entgegensetzung) und bezeichnet in der Politik alle Abgeordneten, die nicht den regierenden Parteien angehören.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 14",
@@ -151,7 +190,10 @@
         "answerC": "Nazi-Symbole tragen darf.",
         "answerD": "meine Meinung sagen darf, solange ich der Regierung nicht widerspreche",
         "correctAnswer": "meine Meinung in Leserbriefen äußern kann.",
-        "explanation": "Meinungsfreiheit bedeutet, dass man seine Meinung frei äußern kann, also auch in Leserbriefen. Man darf auch seine Meinung kund tun wenn man damit der Bundesregierung widerspricht. Verbreitung falscher Tatsachen und das Tragen verbotener Symbole fällt dagegen nicht unter Meinungsfreiheit und ist nicht erlaubt."
+        "explanation": "Meinungsfreiheit bedeutet, dass man seine Meinung frei äußern kann, also auch in Leserbriefen. Man darf auch seine Meinung kund tun wenn man damit der Bundesregierung widerspricht. Verbreitung falscher Tatsachen und das Tragen verbotener Symbole fällt dagegen nicht unter Meinungsfreiheit und ist nicht erlaubt.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 15",
@@ -162,7 +204,10 @@
         "answerC": "freie Berufswahl",
         "answerD": "Arbeit im Ausland",
         "correctAnswer": "Zwangsarbeit",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 16",
@@ -173,7 +218,10 @@
         "answerC": "bei Diskussionen über Religionen",
         "answerD": "bei Kritik am Staat",
         "correctAnswer": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 17",
@@ -184,7 +232,10 @@
         "answerC": "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
         "answerD": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.",
         "correctAnswer": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.",
-        "explanation": "Im Art. 3 des Grundgesetzes wird die Gleichheit aller Bürger und Bürgerinnen vor dem Gesetz garantiert. Ebenso wird der Staat dazu verpflichtet, die Gleichberechtigung durchzusetzen. Daher ist es eine Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat per Gesetz verboten. Meinungsfreiheit, Petitionen und Versammlungsfreiheit sind dagegen nicht verboten."
+        "explanation": "Im Art. 3 des Grundgesetzes wird die Gleichheit aller Bürger und Bürgerinnen vor dem Gesetz garantiert. Ebenso wird der Staat dazu verpflichtet, die Gleichberechtigung durchzusetzen. Daher ist es eine Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat per Gesetz verboten. Meinungsfreiheit, Petitionen und Versammlungsfreiheit sind dagegen nicht verboten.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 18",
@@ -195,7 +246,10 @@
         "answerC": "Religionsfreiheit",
         "answerD": "Meinungsfreiheit",
         "correctAnswer": "die Unantastbarkeit der Menschenwürde",
-        "explanation": "Im Artikel 1 des Grundgesetzes wird die Unantastbarkeit der Menschenwürde garantiert: (1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt. (2) Das Deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt."
+        "explanation": "Im Artikel 1 des Grundgesetzes wird die Unantastbarkeit der Menschenwürde garantiert: (1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt. (2) Das Deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 19",
@@ -206,7 +260,10 @@
         "answerC": "Man darf sich für eine andere Religion entscheiden.",
         "answerD": "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen.",
         "correctAnswer": "Man darf sich seinen Wohnort selbst aussuchen.",
-        "explanation": "Unter „Freizügigkeit“ versteht man in Deutschland das Recht, frei den Wohnort bzw. den Aufenthaltsort aussuchen zu dürfen. Dieses Grundrecht wird durch Art 11 im Grundgesetz garantiert."
+        "explanation": "Unter „Freizügigkeit“ versteht man in Deutschland das Recht, frei den Wohnort bzw. den Aufenthaltsort aussuchen zu dürfen. Dieses Grundrecht wird durch Art 11 im Grundgesetz garantiert.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 20",
@@ -217,7 +274,10 @@
         "answerC": "gesetzestreu.",
         "answerD": "verfassungswidrig.",
         "correctAnswer": "verfassungswidrig.",
-        "explanation": "Die Errichtung einer Diktatur ist in Deutschland verfassungswidrig."
+        "explanation": "Die Errichtung einer Diktatur ist in Deutschland verfassungswidrig.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 21",
@@ -228,7 +288,10 @@
         "answerC": "3",
         "answerD": "4",
         "correctAnswer": "1",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Staatssymbole"
     },
     {
         "number": "Frage 22",
@@ -239,7 +302,10 @@
         "answerC": "Republik",
         "answerD": "Fürstentum",
         "correctAnswer": "Republik",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 23",
@@ -250,7 +316,10 @@
         "answerC": "ehrenamtlich für ein Bundesland tätig.",
         "answerD": "selbständig mit einer eigenen Firma tätig.",
         "correctAnswer": "bei einer Firma oder Behörde beschäftigt.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Sozialsystem"
     },
     {
         "number": "Frage 24",
@@ -261,7 +330,10 @@
         "answerC": "16",
         "answerD": "17",
         "correctAnswer": "16",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Förderalismus"
     },
     {
         "number": "Frage 25",
@@ -272,7 +344,10 @@
         "answerC": "Mecklenburg-Vorpommern",
         "answerD": "Sachsen-Anhalt",
         "correctAnswer": "Elsass-Lothringen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Förderalismus"
     },
     {
         "number": "Frage 26",
@@ -283,7 +358,10 @@
         "answerC": "eine kapitalistische und soziale Monarchie.",
         "answerD": "ein sozialer und sozialistischer Bundesstaat.",
         "correctAnswer": "ein demokratischer und sozialer Bundesstaat.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 27",
@@ -294,7 +372,10 @@
         "answerC": "eine Diktatur.",
         "answerD": "eine Monarchie.",
         "correctAnswer": "ein Bundesstaat.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 28",
@@ -305,7 +386,10 @@
         "answerC": "das wahlberechtigte Volk",
         "answerD": "die Verwaltung",
         "correctAnswer": "das wahlberechtigte Volk",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 29",
@@ -316,7 +400,10 @@
         "answerC": "Bär",
         "answerD": "Pferd",
         "correctAnswer": "Adler",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Staatssymbole"
     },
     {
         "number": "Frage 30",
@@ -327,7 +414,10 @@
         "answerC": "Meinungsfreiheit",
         "answerD": "verschiedene Parteien",
         "correctAnswer": "Pressezensur",
-        "explanation": "In der Demokratie werden regelmäßige und freie Wahlen und Meinungsfreiheit geschätzt. Zusätzlich ist es wichtig, dass verschiedene Parteien zu Wahlen zugelassen werden. Pressezensur gehört nicht zu unserer Demokratie."
+        "explanation": "In der Demokratie werden regelmäßige und freie Wahlen und Meinungsfreiheit geschätzt. Zusätzlich ist es wichtig, dass verschiedene Parteien zu Wahlen zugelassen werden. Pressezensur gehört nicht zu unserer Demokratie.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 31",
@@ -338,7 +428,10 @@
         "answerC": "Ministerium.",
         "answerD": "Fraktion.",
         "correctAnswer": "Koalition.",
-        "explanation": "Manchmal erhält eine Partei bei der Wahl keine ausreichen große Mehrheit, um die Regierung aus eigenen Reihen heraus zu bilden. Daher schliessen sich Parteien zusammen, um gemeinsam eine Regierung zu bilden. Einen solchen Zusammenschluss nennt man Koalition."
+        "explanation": "Manchmal erhält eine Partei bei der Wahl keine ausreichen große Mehrheit, um die Regierung aus eigenen Reihen heraus zu bilden. Daher schliessen sich Parteien zusammen, um gemeinsam eine Regierung zu bilden. Einen solchen Zusammenschluss nennt man Koalition.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 32",
@@ -349,7 +442,10 @@
         "answerC": "Presse",
         "answerD": "Rechtsprechung",
         "correctAnswer": "Presse",
-        "explanation": "In Deutschland existieren drei staatliche Gewalten: Legislative (Gesetzgebung), Judikative (Rechtsprechung) und Exekutive (ausführende Gewalt). Die Presse ist vom Staat unabhängig und hat – geschützt durch die Pressefreiheit – starken Einfluss auf die öffentliche Meinung und die politischen Entscheidungen. Die Presse wird deswegen häufig als die „vierte Gewalt“ bezeichnet."
+        "explanation": "In Deutschland existieren drei staatliche Gewalten: Legislative (Gesetzgebung), Judikative (Rechtsprechung) und Exekutive (ausführende Gewalt). Die Presse ist vom Staat unabhängig und hat – geschützt durch die Pressefreiheit – starken Einfluss auf die öffentliche Meinung und die politischen Entscheidungen. Die Presse wird deswegen häufig als die „vierte Gewalt“ bezeichnet.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 33",
@@ -360,7 +456,10 @@
         "answerC": "ist der Staat abhängig von den Religionsgemeinschaften.",
         "answerD": "bilden Staat und Religionsgemeinschaften eine Einheit.",
         "correctAnswer": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
-        "explanation": "In Deutschland sind der Staat und die Religion voneinander getrennt. Dabei garantiert der Staat die Religionsfreiheit: jeder darf aussuchen ob er / sie einer Religionsgemeinschaft angehören möchte oder nicht. Viele Traditionen und Feiertage entstammen jedoch der christichen Religion, so z.B. Weihnachten."
+        "explanation": "In Deutschland sind der Staat und die Religion voneinander getrennt. Dabei garantiert der Staat die Religionsfreiheit: jeder darf aussuchen ob er / sie einer Religionsgemeinschaft angehören möchte oder nicht. Viele Traditionen und Feiertage entstammen jedoch der christichen Religion, so z.B. Weihnachten.",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Religiöse Vielfalt"
     },
     {
         "number": "Frage 34",
@@ -371,7 +470,10 @@
         "answerC": "eine Monarchie",
         "answerD": "ein Sozialstaat",
         "correctAnswer": "eine Monarchie",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 35",
@@ -382,7 +484,10 @@
         "answerC": "Spendengeldern",
         "answerD": "Vereinsbeiträgen",
         "correctAnswer": "Sozialabgaben",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Sozialsystem"
     },
     {
         "number": "Frage 36",
@@ -393,7 +498,10 @@
         "answerC": "die Gebäudeversicherung",
         "answerD": "die Haftpflichtversicherung",
         "correctAnswer": "die Krankenversicherung",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Sozialsystem"
     },
     {
         "number": "Frage 37",
@@ -404,7 +512,10 @@
         "answerC": "Senator / Senatorin",
         "answerD": "Ministerpräsident / Ministerpräsidentin",
         "correctAnswer": "Ministerpräsident / Ministerpräsidentin",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Förderalismus"
     },
     {
         "number": "Frage 38",
@@ -415,7 +526,10 @@
         "answerC": "Staatenbund.",
         "answerD": "Zentralstaat.",
         "correctAnswer": "Bundesstaat.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Förderalismus"
     },
     {
         "number": "Frage 39",
@@ -426,7 +540,10 @@
         "answerC": "eine eigene Armee",
         "answerD": "eine eigene Regierung",
         "correctAnswer": "eine eigene Regierung",
-        "explanation": "Jedes deutsche Bundesland hat eine eigene (Landes-)Regierung. Die Bundesländer haben jedoch keinen eigenen eigenen Außenminister / eigene Außenministerin. Ebenso wenig besitzen sie eine eigene Währung oder Armee."
+        "explanation": "Jedes deutsche Bundesland hat eine eigene (Landes-)Regierung. Die Bundesländer haben jedoch keinen eigenen eigenen Außenminister / eigene Außenministerin. Ebenso wenig besitzen sie eine eigene Währung oder Armee.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Förderalismus"
     },
     {
         "number": "Frage 40",
@@ -437,7 +554,10 @@
         "answerC": "Freude schöner Götterfunken …",
         "answerD": "Deutschland einig Vaterland …",
         "correctAnswer": "Einigkeit und Recht und Freiheit …",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Staatssymbole"
     },
     {
         "number": "Frage 41",
@@ -448,7 +568,10 @@
         "answerC": "um politische Demonstrationen zu verhindern",
         "answerD": "um wirtschaftlichen Wettbewerb anzuregen",
         "correctAnswer": "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 42",
@@ -459,7 +582,10 @@
         "answerC": "die Gerichte",
         "answerD": "die Polizei",
         "correctAnswer": "das Parlament",
-        "explanation": "In Deutschland werden Gesetze vom Parlament (z.B. Bundestag auf der Bundesebene) beschlossen. Die Regierung allein kann keine Gesetze beschliessen. Die Polizei und die Gerichte sorgen dabei dafür, dass die Gesetze eingehalten werden."
+        "explanation": "In Deutschland werden Gesetze vom Parlament (z.B. Bundestag auf der Bundesebene) beschlossen. Die Regierung allein kann keine Gesetze beschliessen. Die Polizei und die Gerichte sorgen dabei dafür, dass die Gesetze eingehalten werden.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     
     
@@ -473,7 +599,10 @@
         "answerC": "wenn sie Kritik am Staatsoberhaupt äußert",
         "answerD": "wenn ihr Programm eine neue Richtung vorschlägt",
         "correctAnswer": "wenn sie gegen die Verfassung kämpft",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 44",
@@ -484,7 +613,10 @@
         "answerC": "Landtagsabgeordnete",
         "answerD": "Bundestagsabgeordnete",
         "correctAnswer": "den Bundespräsidenten / die Bundespräsidentin",
-        "explanation": "Die Abgeordneten des EU-Parlaments, des Bundestags und der Landtage werden von den Bürgern direkt gewählt. Der Bundespräsident / die Bundespräsidentin wird von der Bundesversammlung gewählt."
+        "explanation": "Die Abgeordneten des EU-Parlaments, des Bundestags und der Landtage werden von den Bürgern direkt gewählt. Der Bundespräsident / die Bundespräsidentin wird von der Bundesversammlung gewählt.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 45",
@@ -495,7 +627,10 @@
         "answerC": "Hausratversicherung",
         "answerD": "Haftpflicht- und Feuerversicherung",
         "correctAnswer": "Sozialversicherung",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Sozialsystem"
     },
     {
         "number": "Frage 46",
@@ -506,7 +641,10 @@
         "answerC": "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
         "answerD": "Er produziert Autos und Busse.",
         "correctAnswer": "Er baut Straßen und Schulen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Aufgaben des Staates"
     },
     {
         "number": "Frage 47",
@@ -517,7 +655,10 @@
         "answerC": "Er unterstützt Museen.",
         "answerD": "",
         "correctAnswer": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
-        "explanation": "Er fördert Sportler und Sportlerinnen."
+        "explanation": "Er fördert Sportler und Sportlerinnen.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Aufgaben des Staates"
     },
     {
         "number": "Frage 48",
@@ -528,7 +669,10 @@
         "answerC": "die Bürgerversammlung",
         "answerD": "die Regierung",
         "correctAnswer": "die Bürgerversammlung",
-        "explanation": "Ein Verfassungsorgan ist ein staatliches Organ, das unmittelbar durch die Verfassung eingesetzt wird. Dazu gehören u.a. die Regierung, der Bundesrat sowie der Bundespräsident / die Bundespräsidentin. Die Bürgerversammlung gehört jedoch nicht dazu. Unter Bürgerversammlung versteht man eine Versammlung der Bürger (z.B. einer Gemeinde), um gemeinsam eine politische Entscheidung herbeizuführen."
+        "explanation": "Ein Verfassungsorgan ist ein staatliches Organ, das unmittelbar durch die Verfassung eingesetzt wird. Dazu gehören u.a. die Regierung, der Bundesrat sowie der Bundespräsident / die Bundespräsidentin. Die Bürgerversammlung gehört jedoch nicht dazu. Unter Bürgerversammlung versteht man eine Versammlung der Bürger (z.B. einer Gemeinde), um gemeinsam eine politische Entscheidung herbeizuführen.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 49",
@@ -539,7 +683,10 @@
         "answerC": "das Familienministerium",
         "answerD": "die Universitäten",
         "correctAnswer": "die Bundesländer",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Förderalismus"
     },
     {
         "number": "Frage 50",
@@ -550,8 +697,12 @@
         "answerC": "gelenkte Zentralwirtschaft.",
         "answerD": "Planwirtschaft.",
         "correctAnswer": "soziale Marktwirtschaft.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Wichtige Stationen nach 1945 "
     },
+    
     {
         "number": "Frage 51",
         "category": "Deutschland",
@@ -561,7 +712,10 @@
         "answerC": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
         "answerD": "jemand ein Verbrechen begeht und deshalb verhaftet wird.",
         "correctAnswer": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 52",
@@ -572,7 +726,10 @@
         "answerC": "preußischen König aus.",
         "answerD": "Bundesverfassungsgericht aus.",
         "correctAnswer": "Volke aus.",
-        "explanation": "Volkssouveränität bedeutet, dass das Volk der Inhaber der Staatsgewalt ist."
+        "explanation": "Volkssouveränität bedeutet, dass das Volk der Inhaber der Staatsgewalt ist.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 53",
@@ -583,7 +740,10 @@
         "answerC": "Die Bürger und Bürgerinnen entscheiden über Gesetze.",
         "answerD": "Der Staat muss die Gesetze einhalten.",
         "correctAnswer": "Der Staat muss die Gesetze einhalten.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Wichtige Stationen nach 1945 "
     },
     {
         "number": "Frage 54",
@@ -594,7 +754,10 @@
         "answerC": "Exekutive",
         "answerD": "Direktive",
         "correctAnswer": "Direktive",
-        "explanation": "In Deutschland gibt es drei staatliche Gewalten: Legislative (Gesetzgebung), Judikative (Rechtsprechung) und Exekutive (ausführende Gewalt). Direktive ist keine staatliche Gewalt in Deutschland."
+        "explanation": "In Deutschland gibt es drei staatliche Gewalten: Legislative (Gesetzgebung), Judikative (Rechtsprechung) und Exekutive (ausführende Gewalt). Direktive ist keine staatliche Gewalt in Deutschland.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 55",
@@ -605,7 +768,10 @@
         "answerC": "das Bundesratsgebäude in Berlin",
         "answerD": "das Bundeskanzleramt in Berlin",
         "correctAnswer": "den Bundestagssitz in Berlin",
-        "explanation": "Auf dem Bild zu sehen ist das Reichstagsgebäude am Platz der Republik in Berlin. Seit dem 8. September 1999 ist das Gebäude der Sitz des Deutschen Bundestages."
+        "explanation": "Auf dem Bild zu sehen ist das Reichstagsgebäude am Platz der Republik in Berlin. Seit dem 8. September 1999 ist das Gebäude der Sitz des Deutschen Bundestages.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 56",
@@ -616,7 +782,10 @@
         "answerC": "Finanzamt",
         "answerD": "Auswärtiges Amt",
         "correctAnswer": "Ordnungsamt",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 57",
@@ -627,7 +796,10 @@
         "answerC": "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion",
         "answerD": "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin",
         "correctAnswer": "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion",
-        "explanation": "Zum Präsidenten / zur Präsidentin des Deutschen Bundestages wird meistens ein Abgeordneter / eine Abgeordnete der stärksten Fraktion gewählt, da so eine Stimmenmehrheit sich leichter erreichen lässt."
+        "explanation": "Zum Präsidenten / zur Präsidentin des Deutschen Bundestages wird meistens ein Abgeordneter / eine Abgeordnete der stärksten Fraktion gewählt, da so eine Stimmenmehrheit sich leichter erreichen lässt.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 58",
@@ -638,7 +810,10 @@
         "answerC": "der Bundesratspräsident / die Bundesratspräsidentin",
         "answerD": "der Bundestagspräsident / die Bundestagspräsidentin",
         "correctAnswer": "der Bundespräsident / die Bundespräsidentin",
-        "explanation": "Die Minister / die Ministerinnen werden von dem Bundespresidentin / der Bundespräsidentin ernannt und erlassen, auf den Vorschlag des Bundeskanzlers / der Bundeskanzlerin hin. Die Minister werden nach ihrer Ernennung vor dem Bundestag auf das Grundgesetz vereidigt. Sie können, müssen aber nicht Mitglied des Bundestages sein."
+        "explanation": "Die Minister / die Ministerinnen werden von dem Bundespresidentin / der Bundespräsidentin ernannt und erlassen, auf den Vorschlag des Bundeskanzlers / der Bundeskanzlerin hin. Die Minister werden nach ihrer Ernennung vor dem Bundestag auf das Grundgesetz vereidigt. Sie können, müssen aber nicht Mitglied des Bundestages sein.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 59",
@@ -649,7 +824,10 @@
         "answerC": "CSU und FDP",
         "answerD": "Bündnis 90/Die Grünen und SPD",
         "correctAnswer": "PDS und WASG",
-        "explanation": "„Die Linke“ entstand am 16. Juni 2007 durch Verschmelzung der Partei „WASG“ und der Partei „Die Linkspartei.PDS“."
+        "explanation": "„Die Linke“ entstand am 16. Juni 2007 durch Verschmelzung der Partei „WASG“ und der Partei „Die Linkspartei.PDS“.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Parteien"
     },
     {
         "number": "Frage 60",
@@ -660,7 +838,10 @@
         "answerC": "Direktive.",
         "answerD": "Judikative.",
         "correctAnswer": "Legislative.",
-        "explanation": "Der Bundestag und der Bundesrat gehören zur gesetzgebenden Gewalt in Deutschland und damit zur Legislative. Exekutive führt die Gesetze aus (z.B. Finanzamt), die Judikative ist die richterliche Gewalt. Direktive ist keine staatliche Gewalt in Deutschland."
+        "explanation": "Der Bundestag und der Bundesrat gehören zur gesetzgebenden Gewalt in Deutschland und damit zur Legislative. Exekutive führt die Gesetze aus (z.B. Finanzamt), die Judikative ist die richterliche Gewalt. Direktive ist keine staatliche Gewalt in Deutschland.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 61",
@@ -671,7 +852,10 @@
         "answerC": "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
         "answerD": "Die Staatsgewalt geht vom Volke aus.",
         "correctAnswer": "Die Staatsgewalt geht vom Volke aus.",
-        "explanation": "Volkssouveränität bedeutet, dass das Volk der Souverän ist. Das heißt, dass die Staatsgewalt vom Volk ausgeht."
+        "explanation": "Volkssouveränität bedeutet, dass das Volk der Souverän ist. Das heißt, dass die Staatsgewalt vom Volk ausgeht.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 62",
@@ -682,7 +866,10 @@
         "answerC": "Europawahl.",
         "answerD": "Bundestagswahl.",
         "correctAnswer": "Landtagswahl.",
-        "explanation": "Das Parlament eines deutschen Bundeslandes heißt Landtag, seine Wahl entsprechend Landtagswahl."
+        "explanation": "Das Parlament eines deutschen Bundeslandes heißt Landtag, seine Wahl entsprechend Landtagswahl.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 63",
@@ -693,7 +880,10 @@
         "answerC": "das Finanzamt",
         "answerD": "die Ministerien",
         "correctAnswer": "die Gerichte",
-        "explanation": "Die Exekutive ist die ausführende Gewalt in Deutschland. Zu ihr gehören u.a. die Polizei, das Finanzamt und die Ministerien. Die Gerichte gehören zur Judikative."
+        "explanation": "Die Exekutive ist die ausführende Gewalt in Deutschland. Zu ihr gehören u.a. die Polizei, das Finanzamt und die Ministerien. Die Gerichte gehören zur Judikative.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 64",
@@ -704,7 +894,10 @@
         "answerC": "16 Kantone.",
         "answerD": "Bund, Länder und Kommunen.",
         "correctAnswer": "Bund, Länder und Kommunen.",
-        "explanation": "Die Bundesrepublik Deutschland ist heute gegliedert in Bund, Länder und Kommunen.Als Kantone bezeichnet man Gliederungseinheiten der Schweiz. In vier Besatzungszonen war Deutschland nach dem Zweiten Weltkrieg aufgeteilt, einen Oststaat (DDR) und einen Weststaat (BRD) gab es bis zur Wiedervereinigung im Jahre 1990."
+        "explanation": "Die Bundesrepublik Deutschland ist heute gegliedert in Bund, Länder und Kommunen.Als Kantone bezeichnet man Gliederungseinheiten der Schweiz. In vier Besatzungszonen war Deutschland nach dem Zweiten Weltkrieg aufgeteilt, einen Oststaat (DDR) und einen Weststaat (BRD) gab es bis zur Wiedervereinigung im Jahre 1990.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Förderalismus"
     },
     {
         "number": "Frage 65",
@@ -715,7 +908,10 @@
         "answerC": "den Bundeskanzler / die Bundeskanzlerin zu wählen.",
         "answerD": "das Bundeskabinett zu bilden.",
         "correctAnswer": "das Bundeskabinett zu bilden.",
-        "explanation": "Zu den Aufgaben des Bundestages gehört es, die Gesetze zu entwerfen (Artikel 76 Grundgesetz), die Bundesregierung zu kontrollieren (Grundgesetz, Artikel 43, 44, 67 und 110) und den Bundeskanzler / die Bundeskanzlerin zu wählen (Artikel 63 Grundgesetz). Das Bundeskabinett (auch Bundesregierung genannt) besteht aus dem Bundeskanzler und den Bundesministern. Die Bundesminister werden auf Vorschlag des Bundeskanzlers vom Bundespräsidenten ernannt und entlassen. Damit ist es nicht die Aufgabe des Bundestages, das Bundeskabinett zu bilden"
+        "explanation": "Zu den Aufgaben des Bundestages gehört es, die Gesetze zu entwerfen (Artikel 76 Grundgesetz), die Bundesregierung zu kontrollieren (Grundgesetz, Artikel 43, 44, 67 und 110) und den Bundeskanzler / die Bundeskanzlerin zu wählen (Artikel 63 Grundgesetz). Das Bundeskabinett (auch Bundesregierung genannt) besteht aus dem Bundeskanzler und den Bundesministern. Die Bundesminister werden auf Vorschlag des Bundeskanzlers vom Bundespräsidenten ernannt und entlassen. Damit ist es nicht die Aufgabe des Bundestages, das Bundeskabinett zu bilden",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Förderalismus"
     },
 
     {
@@ -727,7 +923,10 @@
         "answerC": "Johann Wolfgang von Goethe",
         "answerD": "Heinrich Hoffmann von Fallersleben",
         "correctAnswer": "Heinrich Hoffmann von Fallersleben",
-        "explanation": "Die deutsche Nationalhymne besteht seit 1991 aus der dritten Strophe des Liedes der Deutschen und entstammte der Feder von August Heinrich Hoffmann von Fallersleben. Die Musik wurde von Joseph Haydn komponiert."
+        "explanation": "Die deutsche Nationalhymne besteht seit 1991 aus der dritten Strophe des Liedes der Deutschen und entstammte der Feder von August Heinrich Hoffmann von Fallersleben. Die Musik wurde von Joseph Haydn komponiert.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Staatssymbole"
     },
     {
         "number": "Frage 67",
@@ -738,7 +937,10 @@
         "answerC": "Wirtschaftspolitik",
         "answerD": "Schulpolitik",
         "correctAnswer": "Schulpolitik",
-        "explanation": "Die Schulpolitik ist in Deutschland eine Aufgabe der Länder. Dabei gibt es in Deutschland 16 verschiedene Ministerien, die die Schulpolitik in dem jeweiligen Bundesland bestimmen. Deswegen kommt es gelegentlich zu Problemen wenn ein Schüler / eine Schülerin in ein anderes Bundesland umzieht, das eine andere Strukturierung der Schulen oder Inhalte hat. Die Wirtschaftspolitik wird dagagen nicht von Bundesländern geregelt. Die Außenpolitik und die Verteidigungspolitik sind ebenso nicht bei den Bundesländern angesiedelt, sondern werden für die gesamte Bundesrepublik einheitlich geregelt."
+        "explanation": "Die Schulpolitik ist in Deutschland eine Aufgabe der Länder. Dabei gibt es in Deutschland 16 verschiedene Ministerien, die die Schulpolitik in dem jeweiligen Bundesland bestimmen. Deswegen kommt es gelegentlich zu Problemen wenn ein Schüler / eine Schülerin in ein anderes Bundesland umzieht, das eine andere Strukturierung der Schulen oder Inhalte hat. Die Wirtschaftspolitik wird dagagen nicht von Bundesländern geregelt. Die Außenpolitik und die Verteidigungspolitik sind ebenso nicht bei den Bundesländern angesiedelt, sondern werden für die gesamte Bundesrepublik einheitlich geregelt.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Förderalismus"
     },
     {
         "number": "Frage 68",
@@ -749,7 +951,10 @@
         "answerC": "weil es in den Bundesländern verschiedene Schulen gibt",
         "answerD": "weil es nach dem Grundgesetz seine Aufgabe ist",
         "correctAnswer": "weil es nach dem Grundgesetz seine Aufgabe ist",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Aufgaben des Staates"
     },
     {
         "number": "Frage 69",
@@ -761,6 +966,10 @@
         "answerD": "Bezirksämter",
         "correctAnswer": "Gemeinden und Kommunen",
         "explanation": "Die kleinste bzw. unterste Verwaltungsebene von den hier genannten ist die Ebene der Gemeinden und Kommunen."
+        ,
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 70",
@@ -771,7 +980,10 @@
         "answerC": "Er / Sie wählt die Minister / Ministerinnen aus.",
         "answerD": "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor.",
         "correctAnswer": "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor.",
-        "explanation": "Zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin gehört es, den Kanzler / die Kanzlerin zur Wahl vorzuschlagen. Die Regierungsgeschäfte werden von der Bundesregierung (Kanzler / Kanzelrin und Minister) geführt. Die Regierungspartei wird von der Opposition kontrolliert. Die Minister werden von dem Bundeskanzler / der Bundeskanzlerin gewählt, der Bundespräsident / die Bundespräsidentin ernennt und entlässt diese lediglich."
+        "explanation": "Zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin gehört es, den Kanzler / die Kanzlerin zur Wahl vorzuschlagen. Die Regierungsgeschäfte werden von der Bundesregierung (Kanzler / Kanzelrin und Minister) geführt. Die Regierungspartei wird von der Opposition kontrolliert. Die Minister werden von dem Bundeskanzler / der Bundeskanzlerin gewählt, der Bundespräsident / die Bundespräsidentin ernennt und entlässt diese lediglich.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 71",
@@ -782,7 +994,10 @@
         "answerC": "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
         "answerD": "auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten / der Bundespräsidentin, um Staatsgäste zu empfangen.",
         "correctAnswer": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 72",
@@ -793,7 +1008,10 @@
         "answerC": "Klaus Wowereit",
         "answerD": "Olaf Scholz",
         "correctAnswer": "Olaf Scholz",
-        "explanation": "Seit dem 8. Dezember 2021 ist Olaf Scholz der neunte Bundeskanzler der Bundesrepublik Deutschland."
+        "explanation": "Seit dem 8. Dezember 2021 ist Olaf Scholz der neunte Bundeskanzler der Bundesrepublik Deutschland.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 73",
@@ -804,7 +1022,10 @@
         "answerC": "FDP und SPD.",
         "answerD": "Die Linke und FDP.",
         "correctAnswer": "CDU/CSU und SPD.",
-        "explanation": "Als Fraktion wird im deutschen Bundestag ein Zusammenschluss von mindestens 5% der Mitgliedern des Bundestages bezeichnet. In der Regel sind das Miglieder derselben Partei. Trotz starken Verschiebungen der Stimmanteile, bislen aktuell weiterhin SPD und CDU/CSU die beiden größten Fraktionen."
+        "explanation": "Als Fraktion wird im deutschen Bundestag ein Zusammenschluss von mindestens 5% der Mitgliedern des Bundestages bezeichnet. In der Regel sind das Miglieder derselben Partei. Trotz starken Verschiebungen der Stimmanteile, bislen aktuell weiterhin SPD und CDU/CSU die beiden größten Fraktionen.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Parteien"
     },
     {
         "number": "Frage 74",
@@ -815,7 +1036,10 @@
         "answerC": "Bundestag",
         "answerD": "Bundesgerichtshof",
         "correctAnswer": "Bundestag",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 75",
@@ -826,7 +1050,10 @@
         "answerC": "Wolfgang Thierse",
         "answerD": "Edmund Stoiber",
         "correctAnswer": "Frank-Walter Steinmeier",
-        "explanation": "Der derzeitige (zwölfte) Bundespräsident der Bundesrepublik Deutschland Frank-Walter Steinmeier wurde am 22. März 2017 im Deutschen Bundestag als Bundespräsident vereidigt, nachdem er am 12. Februar 2017 von der Bundesversammlung gewählt wurde."
+        "explanation": "Der derzeitige (zwölfte) Bundespräsident der Bundesrepublik Deutschland Frank-Walter Steinmeier wurde am 22. März 2017 im Deutschen Bundestag als Bundespräsident vereidigt, nachdem er am 12. Februar 2017 von der Bundesversammlung gewählt wurde.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 76",
@@ -837,7 +1064,10 @@
         "answerC": "Christlicher Deutscher Umweltschutz",
         "answerD": "Christlich Demokratische Union",
         "correctAnswer": "Christlich Demokratische Union",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Parteien"
     },
     {
         "number": "Frage 77",
@@ -848,7 +1078,10 @@
         "answerC": "eine deutsche Bürgerinitiative",
         "answerD": "die deutsche Armee",
         "correctAnswer": "die deutsche Armee",
-        "explanation": "Als Bundeswehr bezeichnet man die deutsche Armee. Diesen Namen hat sie offiziell seit dem 1. April 1956."
+        "explanation": "Als Bundeswehr bezeichnet man die deutsche Armee. Diesen Namen hat sie offiziell seit dem 1. April 1956.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Aufgaben des Staates"
     },
     {
         "number": "Frage 78",
@@ -859,7 +1092,10 @@
         "answerC": "Sozialdemokratische Partei Deutschlands",
         "answerD": "Sozialgerechte Partei Deutschlands",
         "correctAnswer": "Sozialdemokratische Partei Deutschlands",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Parteien"
     },
     {
         "number": "Frage 79",
@@ -870,7 +1106,10 @@
         "answerC": "Führende Demokratische Partei",
         "answerD": "Freie Demokratische Partei",
         "correctAnswer": "Freie Demokratische Partei",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Parteien"
     },
     {
         "number": "Frage 80",
@@ -881,7 +1120,10 @@
         "answerC": "Bundesverfassungsgericht",
         "answerD": "Verwaltungsgericht",
         "correctAnswer": "Bundesverfassungsgericht",
-        "explanation": "Das Bundesverfassungsgericht (BVerfG) wacht über die Einhaltung des Grundgesetzes der Bundesrepublik Deutschland. Es überprüft ob Gesetze und Urteile verfassungskonform sind und weist sie ggf. an die entsprechenden Instanzen zur erneuten Prüfung zurück."
+        "explanation": "Das Bundesverfassungsgericht (BVerfG) wacht über die Einhaltung des Grundgesetzes der Bundesrepublik Deutschland. Es überprüft ob Gesetze und Urteile verfassungskonform sind und weist sie ggf. an die entsprechenden Instanzen zur erneuten Prüfung zurück.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 81",
@@ -892,7 +1134,10 @@
         "answerC": "das Volk",
         "answerD": "der Bundestag",
         "correctAnswer": "der Bundestag",
-        "explanation": "Der Bundeskanzler wird vom Bundestag gewählt. Der Bundestag wiederum wird vom Volk gewählt. Der Bundesrat ist eine Vertretung einer Landesregierung, um die Interessen des jeweiligen Bundeslandes auf Bundesebene zu vertreten. Die Bundesversammlung wählt den Bundespräsidenten."
+        "explanation": "Der Bundeskanzler wird vom Bundestag gewählt. Der Bundestag wiederum wird vom Volk gewählt. Der Bundesrat ist eine Vertretung einer Landesregierung, um die Interessen des jeweiligen Bundeslandes auf Bundesebene zu vertreten. Die Bundesversammlung wählt den Bundespräsidenten.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 82",
@@ -903,7 +1148,10 @@
         "answerC": "der Bundeskanzler / die Bundeskanzlerin",
         "answerD": "der Bundesratspräsident / die Bundesratspräsidentin",
         "correctAnswer": "der Bundeskanzler / die Bundeskanzlerin",
-        "explanation": "Die Regierung bzw. das Bundeskabinett besteht aus dem Bundeskanzler und den Bundesministern. Der Chef der Regierung ist damit der Bundeskanzler / die Bundeskanzlerin."
+        "explanation": "Die Regierung bzw. das Bundeskabinett besteht aus dem Bundeskanzler und den Bundesministern. Der Chef der Regierung ist damit der Bundeskanzler / die Bundeskanzlerin.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 83",
@@ -914,7 +1162,10 @@
         "answerC": "der Bundestag",
         "answerD": "die Bundesregierung",
         "correctAnswer": "der Bundestag",
-        "explanation": "Der Bundeskanzler / die Bundeskanzlerin wird vom Bundestag (Parlament) gewählt. Das Volk wählt bei der Bundestagswahl die Mitglieder des Parlaments. Die Bundesregierung besteht aus dem Bundeskanzler / der Bundeskanzlerin und den Bundesministern."
+        "explanation": "Der Bundeskanzler / die Bundeskanzlerin wird vom Bundestag (Parlament) gewählt. Das Volk wählt bei der Bundestagswahl die Mitglieder des Parlaments. Die Bundesregierung besteht aus dem Bundeskanzler / der Bundeskanzlerin und den Bundesministern.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 84",
@@ -925,7 +1176,10 @@
         "answerC": "repräsentiert das Land.",
         "answerD": "überwacht die Einhaltung der Gesetze.",
         "correctAnswer": "repräsentiert das Land.",
-        "explanation": "Der deutsche Bundespräsident / die deutsche Bundespräsidentin hat eine repräsentative Rolle und repräsentiert damit das Land."
+        "explanation": "Der deutsche Bundespräsident / die deutsche Bundespräsidentin hat eine repräsentative Rolle und repräsentiert damit das Land.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 85",
@@ -936,7 +1190,10 @@
         "answerC": "die Regierungsvertreter der Bundesländer",
         "answerD": "die Parteimitglieder",
         "correctAnswer": "die Regierungsvertreter der Bundesländer",
-        "explanation": "Der Bundesrat besteht aus Vertretern der einzelnen Landesregierungen. Damit sind sie weder Abgeordnete des Bundestages, noch Minister und Ministerinnen der Bundesregierung. Ebenso müssen die Mitglieder des Bundesrats nicht zwingend einer Partei angehören."
+        "explanation": "Der Bundesrat besteht aus Vertretern der einzelnen Landesregierungen. Damit sind sie weder Abgeordnete des Bundestages, noch Minister und Ministerinnen der Bundesregierung. Ebenso müssen die Mitglieder des Bundesrats nicht zwingend einer Partei angehören.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 86",
@@ -947,7 +1204,10 @@
         "answerC": "das Bundesparlament",
         "answerD": "das Bundesparlament",
         "correctAnswer": "die Bundesversammlung",
-        "explanation": "Der Bundespräsident bzw. die Bundespräsidentin wird in Deutschland von der Bundesversammlung gewählt. Dies ist im Artikel 54 Grundgesetz und das Gesetz über die Wahl des Bundespräsidenten geregelt. Die Bundesversammlung besteht aus den Mitgliedern des deutschen Bundestages und gleicher Zahl von Mitgliedern, die von den Volksvertretungen der Länder gewählt werden."
+        "explanation": "Der Bundespräsident bzw. die Bundespräsidentin wird in Deutschland von der Bundesversammlung gewählt. Dies ist im Artikel 54 Grundgesetz und das Gesetz über die Wahl des Bundespräsidenten geregelt. Die Bundesversammlung besteht aus den Mitgliedern des deutschen Bundestages und gleicher Zahl von Mitgliedern, die von den Volksvertretungen der Länder gewählt werden.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },{
         "number": "Frage 87",
         "category": "Deutschland",
@@ -957,7 +1217,10 @@
         "answerC": "der Bundesratspräsident / die Bundesratspräsidentin",
         "answerD": "der Bundestagspräsident / die Bundestagspräsidentin",
         "correctAnswer": "der Bundespräsident / die Bundespräsidentin",
-        "explanation": "Der Bundespräsident / die Bundespräsidentin ist das Staatsoberhaupt der Bundesrepublik Deutschland."
+        "explanation": "Der Bundespräsident / die Bundespräsidentin ist das Staatsoberhaupt der Bundesrepublik Deutschland.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 88",
@@ -968,7 +1231,10 @@
         "answerC": "bestimmt, wer im Bundesrat sitzt.",
         "answerD": "schlägt die Regierungschefs / Regierungschefinnen der Länder vor.",
         "correctAnswer": "kontrolliert die Regierung.",
-        "explanation": "Opposition entstammte von dem lateinischen Wort oppositio (Entgegensetzung) und bezeichnet in der Politik alle Abgeordneten, die nicht den regierenden Parteien angehören. Damit wird die Regierung von der Opposition kontrolliert."
+        "explanation": "Opposition entstammte von dem lateinischen Wort oppositio (Entgegensetzung) und bezeichnet in der Politik alle Abgeordneten, die nicht den regierenden Parteien angehören. Damit wird die Regierung von der Opposition kontrolliert.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 89",
@@ -979,7 +1245,10 @@
         "answerC": "Fraktion",
         "answerD": "Opposition",
         "correctAnswer": "Fraktion",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 90",
@@ -990,7 +1259,10 @@
         "answerC": "den Bundestag.",
         "answerD": "die Bundesregierung.",
         "correctAnswer": "den Bundesrat.",
-        "explanation": "Der Bundesrat ist ein Verfassungsorgan der Bundesrepublik Deutschland und besteht aus Mitgliedern der Landesregierungen aller Bundesländer. Damit wirken die Bundesländer an der Gesetzgebung des Bundes mit. Die Bundesversammlung besteht zwar u.A. auch aus Mitgliedern der Bundesländer mit, sie wählt aber lediglich den Bundespräsidenten. Der Bundestag ist als Parlament ein wichtiges Organ der Gesetzgebung, besteht aber aus gewählten Volksvertretern und ist damit keine Vertretung der einzelnen Bundesländer. Die Bundesregierung besteht aus dem Bundeskanzler und der Bundesministern, die auf Vorschlag des Bundeskanzlers (durch den Bundespräsidenten) ernannt werden (Artikel 64 Grundgesetz). Damit ist die Bundesregierung keine Vertretung der Bundesländer bei der Gesetzgebung."
+        "explanation": "Der Bundesrat ist ein Verfassungsorgan der Bundesrepublik Deutschland und besteht aus Mitgliedern der Landesregierungen aller Bundesländer. Damit wirken die Bundesländer an der Gesetzgebung des Bundes mit. Die Bundesversammlung besteht zwar u.A. auch aus Mitgliedern der Bundesländer mit, sie wählt aber lediglich den Bundespräsidenten. Der Bundestag ist als Parlament ein wichtiges Organ der Gesetzgebung, besteht aber aus gewählten Volksvertretern und ist damit keine Vertretung der einzelnen Bundesländer. Die Bundesregierung besteht aus dem Bundeskanzler und der Bundesministern, die auf Vorschlag des Bundeskanzlers (durch den Bundespräsidenten) ernannt werden (Artikel 64 Grundgesetz). Damit ist die Bundesregierung keine Vertretung der Bundesländer bei der Gesetzgebung.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 91",
@@ -1000,7 +1272,10 @@
         "answerB": "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
         "answerC": "leichter, wenn es sich um ein reiches Bundesland handelt.",
         "correctAnswer": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
-        "explanation": "Die Vertretung der Landesregierung auf der Bundesebene ist der Bundesrat. Durch den Regierungswechsel in einem Bundesland können die Mehrheitsverhältnisse im Bundesrat sich verändern. Dadurch kann das Regieren schwieriger werden.Durch größere Anzahl der Parteienvertreter im Bundesrat kann das Regieren wahrscheinlich nicht leichter werden, da mehr unterschiedliche Interessen abgewogen werden müssen. Durch den Regierungswechsel können sich die Mehrheiten im Bundestag sich nicht verändern."
+        "explanation": "Die Vertretung der Landesregierung auf der Bundesebene ist der Bundesrat. Durch den Regierungswechsel in einem Bundesland können die Mehrheitsverhältnisse im Bundesrat sich verändern. Dadurch kann das Regieren schwieriger werden.Durch größere Anzahl der Parteienvertreter im Bundesrat kann das Regieren wahrscheinlich nicht leichter werden, da mehr unterschiedliche Interessen abgewogen werden müssen. Durch den Regierungswechsel können sich die Mehrheiten im Bundestag sich nicht verändern.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 92",
@@ -1011,7 +1286,10 @@
         "answerC": "Christlich Sozialer Unternehmerverband",
         "answerD": "Christlich Soziale Union",
         "correctAnswer": "Christlich Soziale Union",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Parteien"
     },
 
     {
@@ -1023,7 +1301,10 @@
         "answerC": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
         "answerD": "größer ist das Risiko, eine Koalition bilden zu müssen.",
         "correctAnswer": "mehr Sitze erhält die Partei im Parlament.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 94",
@@ -1034,7 +1315,10 @@
         "answerC": "21",
         "answerD": "23",
         "correctAnswer": "18",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 95",
@@ -1045,7 +1329,10 @@
         "answerC": "Schweigepflicht",
         "answerD": "Religionspflicht",
         "correctAnswer": "Schulpflicht",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Pflichten"
     },
     {
         "number": "Frage 96",
@@ -1056,7 +1343,10 @@
         "answerC": "einen Sozialversicherungsausweis",
         "answerD": "einen Führerschein",
         "correctAnswer": "einen Personalausweis",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Pflichten"
     },
     {
         "number": "Frage 97",
@@ -1067,7 +1357,10 @@
         "answerC": "Kindergeld",
         "answerD": "Wohngeld",
         "correctAnswer": "Sozialversicherung",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Sozialsystem"
     },
     {
         "number": "Frage 98",
@@ -1079,6 +1372,10 @@
         "answerD": "dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen.",
         "correctAnswer": "kann die Regierung ihre Mehrheit verlieren.",
         "explanation": "Wenn ein Abgeordneter / eine Abgeordnete seine / ihre Fraktion wechselt, dann können sich die Mehrheitsverhältnisse im Bundestag verschieben. Dadurch könnte die Bundesregierung ihre Mehrheit verlieren. Die Abgeortneten dürfen weiterhin am den Parlametssitzungen teilehmen und benötigen auch keine Erlaubnis des Bundespräsidenten / der Bundespräsidentin, da die Abgeordneten an keine Weisungen gebunden sind nur ihrem eigenen Gewissen unterworfen sind (Grundgesetz, Art 38). Eine Neuwahl des Abgeordneten / der Abgeordneten ist nicht vorgesehen."
+        ,
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 99",
@@ -1089,7 +1386,10 @@
         "answerC": "alle Staatsangehörigen",
         "answerD": "nur Arbeitgeber / Arbeitgeberinnen",
         "correctAnswer": "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Sozialsystem"
     },
     {
         "number": "Frage 100",
@@ -1100,7 +1400,10 @@
         "answerC": "die Arbeitslosenversicherung",
         "answerD": "die Pflegeversicherung",
         "correctAnswer": "die Lebensversicherung",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Sozialsystem"
     },
     {
         "number": "Frage 101",
@@ -1111,7 +1414,10 @@
         "answerC": "Rentner und Rentnerinnen.",
         "answerD": "Arbeitgeber und Arbeitgeberinnen.",
         "correctAnswer": "Arbeitnehmer und Arbeitnehmerinnen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 102",
@@ -1122,7 +1428,10 @@
         "answerC": "Vaterländischen Verdienstorden",
         "answerD": "Ehrentitel „Held der Deutschen Demokratischen Republik“",
         "correctAnswer": "Bundesverdienstkreuz",
-        "explanation": "Das Bundesverdienstkreuz (auch Verdienstorden der Bundesrepublik Deutschland) ist die einzige allgemeine Verdienstauszeichnung der Bundesrepublik Deutschland. Diese Auszeichnung wird für besondere Leistungen auf politischem, wirtschaftlichem, kulturellem, geistigem oder ehrenamtlichem Gebiet verliehen. Als Bundesadler bezeichnet man das Wappentier des Bundeswappens Deutschlands. Der Vaterländische Verdienstorden (VVO) sowie der Ehrentitel „Held der Deutschen Demokratischen Republik“ waren Staatsauszeichnungen der Deutschen Demokratischen Republik (DDR)."
+        "explanation": "Das Bundesverdienstkreuz (auch Verdienstorden der Bundesrepublik Deutschland) ist die einzige allgemeine Verdienstauszeichnung der Bundesrepublik Deutschland. Diese Auszeichnung wird für besondere Leistungen auf politischem, wirtschaftlichem, kulturellem, geistigem oder ehrenamtlichem Gebiet verliehen. Als Bundesadler bezeichnet man das Wappentier des Bundeswappens Deutschlands. Der Vaterländische Verdienstorden (VVO) sowie der Ehrentitel „Held der Deutschen Demokratischen Republik“ waren Staatsauszeichnungen der Deutschen Demokratischen Republik (DDR).",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 103",
@@ -1133,7 +1442,10 @@
         "answerC": "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
         "answerD": "der Bundestagsfraktionen von CDU und SPD",
         "correctAnswer": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
-        "explanation": "Um die Zusammensetzung einer Koalition abzukürzen, verwendet man z.B. den Begriff „Ampelkoalition“. Jeder Partei ist dabei symbolisch eine Farbe zugeordnet. Im Falle der Ampel-Farben rot, gelb und grün ergibt sich folgende Zusammensetzung: SPD, FDP, Bündnis 90/Die Grünen."
+        "explanation": "Um die Zusammensetzung einer Koalition abzukürzen, verwendet man z.B. den Begriff „Ampelkoalition“. Jeder Partei ist dabei symbolisch eine Farbe zugeordnet. Im Falle der Ampel-Farben rot, gelb und grün ergibt sich folgende Zusammensetzung: SPD, FDP, Bündnis 90/Die Grünen.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Parteien"
     },
     {
         "number": "Frage 104",
@@ -1144,7 +1456,10 @@
         "answerC": "Die Frau erledigt private Sachen während der Arbeitszeit.",
         "answerD": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
         "correctAnswer": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 105",
@@ -1155,7 +1470,10 @@
         "answerC": "Sie geben Zwischenergebnisse an die Medien weiter.",
         "answerD": "Sie zählen die Stimmen nach dem Ende der Wahl.",
         "correctAnswer": "Sie zählen die Stimmen nach dem Ende der Wahl.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Pflichten"
     },
     {
         "number": "Frage 106",
@@ -1166,7 +1484,10 @@
         "answerC": "Sie geben Zwischenergebnisse an Journalisten weiter.",
         "answerD": "Sie zählen die Stimmen nach dem Ende der Wahl.",
         "correctAnswer": "Sie zählen die Stimmen nach dem Ende der Wahl.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Pflichten"
     },
     {
         "number": "Frage 107",
@@ -1177,7 +1498,10 @@
         "answerC": "6 Jahre",
         "answerD": "8 Jahre",
         "correctAnswer": "4 Jahre",
-        "explanation": "Der Bundestag wird in der Regel auf vier Jahre gewählt. Die Wahlperiode endet mit dem Zusammentritt eines neuen Bundestages. Die Neuwahlen findet manchmal auch früher statt, falls z.B. der Bundestag aufgelöst wird wenn die Abgeordneten keinen Bundeskazler wählen können."
+        "explanation": "Der Bundestag wird in der Regel auf vier Jahre gewählt. Die Wahlperiode endet mit dem Zusammentritt eines neuen Bundestages. Die Neuwahlen findet manchmal auch früher statt, falls z.B. der Bundestag aufgelöst wird wenn die Abgeordneten keinen Bundeskazler wählen können.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 108",
@@ -1188,7 +1512,10 @@
         "answerC": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
         "answerD": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.",
         "correctAnswer": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 109",
@@ -1199,7 +1526,10 @@
         "answerC": "alle fünf Jahre",
         "answerD": "alle sechs Jahre",
         "correctAnswer": "alle vier Jahre",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },{
         "number": "Frage 110",
         "category": "Deutschland",
@@ -1209,7 +1539,10 @@
         "answerC": "4 Jahre",
         "answerD": "5 Jahre",
         "correctAnswer": "4 Jahre",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 111",
@@ -1220,7 +1553,10 @@
         "answerC": "Nur Personen mit einem festen Arbeitsplatz dürfen wählen.",
         "answerD": "Alle Einwohner und Einwohnerinnen in Deutschland müssen wählen.",
         "correctAnswer": "Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das Mindestalter erreicht haben.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 112",
@@ -1231,7 +1567,10 @@
         "answerC": "berufsbezogen.",
         "answerD": "geschlechtsabhängig.",
         "correctAnswer": "geheim.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 113",
@@ -1242,7 +1581,10 @@
         "answerC": "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.",
         "answerD": "die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat.",
         "correctAnswer": "die meisten Stimmen bekommt.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
 
     {
@@ -1254,7 +1596,10 @@
         "answerC": "ein Zwang.",
         "answerD": "eine Last.",
         "correctAnswer": "ein Recht.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 115",
@@ -1265,7 +1610,10 @@
         "answerC": "Man kann wählen.",
         "answerD": "Man muss zur Auszählung der Stimmen gehen.",
         "correctAnswer": "Man kann wählen.",
-        "explanation": "Als „aktives Wahlrecht“ bezeichnet man in Deutschland die Möglichkeit, an Wahlen teilnehmen zu dürfen. „Aktiv“ bedeutet dabei, dass man aktiv die Stimmabgabe vornimmt. Die Möglichkeit, sich wählen zu lassen, bezeichnet man als „passives Wahlrecht“. Eine Pflicht zur Wahl zu gehen gibt es nicht. Die Auszählung der Stimmen wird durch Wahlhelfer durchgeführt."
+        "explanation": "Als „aktives Wahlrecht“ bezeichnet man in Deutschland die Möglichkeit, an Wahlen teilnehmen zu dürfen. „Aktiv“ bedeutet dabei, dass man aktiv die Stimmabgabe vornimmt. Die Möglichkeit, sich wählen zu lassen, bezeichnet man als „passives Wahlrecht“. Eine Pflicht zur Wahl zu gehen gibt es nicht. Die Auszählung der Stimmen wird durch Wahlhelfer durchgeführt.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 116",
@@ -1276,7 +1624,10 @@
         "answerC": "aktiver Wahlkampf.",
         "answerD": "aktives Wahlrecht.",
         "correctAnswer": "aktives Wahlrecht.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 117",
@@ -1287,7 +1638,10 @@
         "answerC": "5 %",
         "answerD": "6 %",
         "correctAnswer": "6 %",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 118",
@@ -1298,7 +1652,10 @@
         "answerC": "Wer nicht wählt, verliert das Recht zu wählen.",
         "answerD": "Wer wählen darf, kann wählen.",
         "correctAnswer": "Wer wählen darf, kann wählen.",
-        "explanation": "Was regelt das Wahlrecht in Deutschland?"
+        "explanation": "Was regelt das Wahlrecht in Deutschland?",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 119",
@@ -1309,7 +1666,10 @@
         "answerC": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
         "answerD": "Ich kann frei entscheiden, wo ich wählen gehen möchte.",
         "correctAnswer": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 120",
@@ -1320,7 +1680,10 @@
         "answerC": "Mehrheits- und Verhältniswahlrecht.",
         "answerD": "allgemeines Männerwahlrecht.",
         "correctAnswer": "Mehrheits- und Verhältniswahlrecht.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 121",
@@ -1331,7 +1694,10 @@
         "answerC": "Basiswert.",
         "answerD": "Richtlinie.",
         "correctAnswer": "5 %-Hürde.",
-        "explanation": "Die Fünf-Prozent-Hürde soll eine Zersplitterung des Parlaments (Bundestag) durch sehr viele kleine Parteien verhindern. Um im Parlament vertreten zu sein, muss eine Partei daher bei der Bundestagswahl mindestens 5% der Wählerstimmen (Erststimme) gewinnen."
+        "explanation": "Die Fünf-Prozent-Hürde soll eine Zersplitterung des Parlaments (Bundestag) durch sehr viele kleine Parteien verhindern. Um im Parlament vertreten zu sein, muss eine Partei daher bei der Bundestagswahl mindestens 5% der Wählerstimmen (Erststimme) gewinnen.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
 
     {
@@ -1343,7 +1709,10 @@
         "answerC": "geschlossen, gleich, sicher.",
         "answerD": "sicher, offen, freiwillig.",
         "correctAnswer": "frei, gleich, geheim.",
-        "explanation": "Die Wahlen in Deutschland sind u.a. frei, gleich, geheim, das bedeutet: frei: jeder nimmt an der Wahl freiwillig teil, ohne Druck, Verpflichtung oder Strafen, gleich: jede Stimme zählt gleich viel, geheim: die Stimmeingabe erfolgt in der Art, dass niemand nachvollziehen kann wie ein Anderer abgestimmt hat. Geregelt wird das im Artikel 38 des Grundgesetzes."
+        "explanation": "Die Wahlen in Deutschland sind u.a. frei, gleich, geheim, das bedeutet: frei: jeder nimmt an der Wahl freiwillig teil, ohne Druck, Verpflichtung oder Strafen, gleich: jede Stimme zählt gleich viel, geheim: die Stimmeingabe erfolgt in der Art, dass niemand nachvollziehen kann wie ein Anderer abgestimmt hat. Geregelt wird das im Artikel 38 des Grundgesetzes.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 123",
@@ -1354,7 +1723,10 @@
         "answerC": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
         "answerD": "Anwesenheitskontrolle im Bundesrat für Abstimmungen",
         "correctAnswer": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
-        "explanation": "Die Fünf-Prozent-Hürde soll eine Zersplitterung des Parlaments (Bundestag) durch sehr viele kleine Parteien verhindern. Um im Parlament vertreten zu sein, muss eine Partei bei der Bundestagswahl in Deutschland mindestens 5% der Wählerstimmen gewinnen."
+        "explanation": "Die Fünf-Prozent-Hürde soll eine Zersplitterung des Parlaments (Bundestag) durch sehr viele kleine Parteien verhindern. Um im Parlament vertreten zu sein, muss eine Partei bei der Bundestagswahl in Deutschland mindestens 5% der Wählerstimmen gewinnen.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 124",
@@ -1365,7 +1737,10 @@
         "answerC": "des Parlaments für Deutschland.",
         "answerD": "des Bundespräsidenten / der Bundespräsidentin.",
         "correctAnswer": "des Parlaments für Deutschland.",
-        "explanation": "Bei der Bundestagswahl werden die Abgeordneten des deutschen Bundestages gewählt. Damit ist es die Wahl der Parlaments der Bundesrepublik Deutschland. Der Bundeskanzler wird aus den Mitgliedern des Parlaments durch den Bundespräsidenten vorgeschlagen und vom Bundestag gewählt. Die Parlamente der Länder werden in den Landtagswahlen gewählt. Der Bundespräsident wird von der Bundesversammlung gewählt."
+        "explanation": "Bei der Bundestagswahl werden die Abgeordneten des deutschen Bundestages gewählt. Damit ist es die Wahl der Parlaments der Bundesrepublik Deutschland. Der Bundeskanzler wird aus den Mitgliedern des Parlaments durch den Bundespräsidenten vorgeschlagen und vom Bundestag gewählt. Die Parlamente der Länder werden in den Landtagswahlen gewählt. Der Bundespräsident wird von der Bundesversammlung gewählt.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     }
     ,{
         "number": "Frage 125",
@@ -1376,7 +1751,10 @@
         "answerC": "im Land bestehende Gesetze beizubehalten.",
         "answerD": "den Armen mehr Macht zu geben.",
         "correctAnswer": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 126",
@@ -1387,7 +1765,10 @@
         "answerC": "eine Benachrichtigung von der Bundesversammlung",
         "answerD": "eine Benachrichtigung vom Pfarramt",
         "correctAnswer": "eine Wahlbenachrichtigung von der Gemeinde",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 127",
@@ -1398,7 +1779,10 @@
         "answerC": "viele kleine Parteien die Regierungsbildung erschweren.",
         "answerD": "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen.",
         "correctAnswer": "viele kleine Parteien die Regierungsbildung erschweren.",
-        "explanation": "Ohne die 5%-Hürde würden sehr viele kleine Parteien in den Bundestag einziehen. Das würde sie Regierungsbildung stark erschweren weil sich sehr viele Parteien nicht schnell auf einen gemeinsamen Kurs einigen können."
+        "explanation": "Ohne die 5%-Hürde würden sehr viele kleine Parteien in den Bundestag einziehen. Das würde sie Regierungsbildung stark erschweren weil sich sehr viele Parteien nicht schnell auf einen gemeinsamen Kurs einigen können.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 128",
@@ -1409,7 +1793,10 @@
         "answerC": "Botschafter / Botschafterinnen.",
         "answerD": "Ministerpräsidenten / Ministerpräsidentinnen.",
         "correctAnswer": "Abgeordnete.",
-        "explanation": "Die Mitglieder des Parlaments (Bundestag) werden als (Bundestags-)Abgeordnete bezeichnet."
+        "explanation": "Die Mitglieder des Parlaments (Bundestag) werden als (Bundestags-)Abgeordnete bezeichnet.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 129",
@@ -1420,7 +1807,10 @@
         "answerC": "der Bundestag.",
         "answerD": "der Bundespräsident / die Bundespräsidentin.",
         "correctAnswer": "der Bundestag.",
-        "explanation": "In Deutschland wird vom Volk nur der Bundestag gewählt. Der Bundeskanzler wird vom Bundestag gewählt. Der Ministerpräsident eines Bundeslandes wird vom jeweiligen Landesparlament gewählt. Der Bundespräsident wird von der Bundesversammlung für fünf Jahre gewählt."
+        "explanation": "In Deutschland wird vom Volk nur der Bundestag gewählt. Der Bundeskanzler wird vom Bundestag gewählt. Der Ministerpräsident eines Bundeslandes wird vom jeweiligen Landesparlament gewählt. Der Bundespräsident wird von der Bundesversammlung für fünf Jahre gewählt.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsorgane"
     },
     {
         "number": "Frage 130",
@@ -1431,7 +1821,10 @@
         "answerC": "3",
         "answerD": "4",
         "correctAnswer": "1",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 131",
@@ -1442,7 +1835,10 @@
         "answerC": "das Oberhaupt einer Gemeinde.",
         "answerD": "der / die Vorsitzende einer Partei.",
         "correctAnswer": "das Oberhaupt einer Gemeinde.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 132",
@@ -1453,7 +1849,10 @@
         "answerC": "Sie arbeiten in der Bundesregierung.",
         "answerD": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.",
         "correctAnswer": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
-        "explanation": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden."
+        "explanation": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 133",
@@ -1464,7 +1863,10 @@
         "answerC": "Man kann am Wahltag telefonisch seine Stimme abgeben.",
         "answerD": "Kinder ab dem Alter von 14 Jahren dürfen wählen.",
         "correctAnswer": "Man kann durch Briefwahl seine Stimme abgeben.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 134",
@@ -1475,7 +1877,10 @@
         "answerC": "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
         "answerD": "Ich schreibe einen Brief an das Forstamt der Gemeinde.",
         "correctAnswer": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Wahlen und Beteiligung"
     },
     {
         "number": "Frage 135",
@@ -1486,7 +1891,10 @@
         "answerC": "Selbständige",
         "answerD": "Arbeitnehmer und Arbeitnehmerinnen",
         "correctAnswer": "Arbeitnehmer und Arbeitnehmerinnen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 136",
@@ -1497,7 +1905,10 @@
         "answerC": "Problemen mit den Nachbarn / Nachbarinnen.",
         "answerD": "Schwierigkeiten nach einem Verkehrsunfall.",
         "correctAnswer": "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 137",
@@ -1508,7 +1919,10 @@
         "answerC": "das Arbeitsgericht",
         "answerD": "das Amtsgericht",
         "correctAnswer": "das Arbeitsgericht",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 138",
@@ -1519,7 +1933,10 @@
         "answerC": "Kündigungsschutzklage erheben",
         "answerD": "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen",
         "correctAnswer": "Kündigungsschutzklage erheben",
-        "explanation": "sein Auto falsch geparkt hat und es abgeschleppt wird."
+        "explanation": "sein Auto falsch geparkt hat und es abgeschleppt wird.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 139",
@@ -1530,7 +1947,10 @@
         "answerC": "eine andere Meinung als die der Regierung vertritt.",
         "answerD": "verteidigt den Angeklagten / die Angeklagte.",
         "correctAnswer": "eine Straftat begangen hat und angeklagt wird.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 140",
@@ -1541,7 +1961,10 @@
         "answerC": "stellt Urkunden aus.",
         "answerD": "verteidigt den Angeklagten / die Angeklagte.",
         "correctAnswer": "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
-        "explanation": "Ein Schöffe ist in Deutschland ein ehrenamtlicher Richter, gemäß §31 Gerichtsverfassungsgesetz (GVG). Damit entscheidet der Schöffe / die Schöffin mit Richtern / Richterinnen über Schuld und Strafe."
+        "explanation": "Ein Schöffe ist in Deutschland ein ehrenamtlicher Richter, gemäß §31 Gerichtsverfassungsgesetz (GVG). Damit entscheidet der Schöffe / die Schöffin mit Richtern / Richterinnen über Schuld und Strafe.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 141",
@@ -1552,7 +1975,10 @@
         "answerC": "stellt Urkunden aus.",
         "answerD": "verteidigt den Angeklagten / die Angeklagte.",
         "correctAnswer": "ein Rechtsanwalt / eine Rechtsanwältin",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 142",
@@ -1563,7 +1989,10 @@
         "answerC": "ändert Gesetze.",
         "answerD": "betreut Jugendliche vor Gericht.",
         "correctAnswer": "arbeitet an einem Gericht und spricht Urteile.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 143",
@@ -1574,7 +2003,10 @@
         "answerC": "Operative",
         "answerD": "Legislative",
         "correctAnswer": "Judikative",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 144",
@@ -1585,7 +2017,10 @@
         "answerC": "planenden Gewalt.",
         "answerD": "gesetzgebenden Gewalt.",
         "correctAnswer": "rechtsprechenden Gewalt.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 145",
@@ -1596,7 +2031,10 @@
         "answerC": "Presse",
         "answerD": "Legislative",
         "correctAnswer": "Judikative",
-        "explanation": "Der Begriff Judikative kommt aus dem Lateinischen iudicare und bedeutet Recht sprechen und bezeichnet die richterliche Gewalt in Deutschland."
+        "explanation": "Der Begriff Judikative kommt aus dem Lateinischen iudicare und bedeutet Recht sprechen und bezeichnet die richterliche Gewalt in Deutschland.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 146",
@@ -1607,7 +2045,10 @@
         "answerC": "Protokoll",
         "answerD": "Prozess",
         "correctAnswer": "Prozess",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 147",
@@ -1618,7 +2059,10 @@
         "answerC": "Pläne erstellen",
         "answerD": "Gesetze erlassen",
         "correctAnswer": "Recht sprechen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 148",
@@ -1629,7 +2073,10 @@
         "answerC": "die Gesetze zu beschließen",
         "answerD": "die Einhaltung von Gesetzen zu überwachen",
         "correctAnswer": "die Einhaltung von Gesetzen zu überwachen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Verfassungsprinzipien"
     },
     {
         "number": "Frage 149",
@@ -1640,7 +2087,10 @@
         "answerC": "alle Personen, die seit mindestens 5 Jahren in Deutschland leben",
         "answerD": "nur Personen mit einem abgeschlossenen Jurastudium",
         "correctAnswer": "alle deutschen Staatsangehörigen älter als 24 und jünger als 70 Jahre",
-        "explanation": "Ein Schöffe ist in Deutschland ein ehrenamtlicher Richter./n Entsprechend §31 Gerichtsverfassungsgesetz (GVG) kann nur ein deutscher Staatsbürger zum Schöffen gewählt werden. Zusätzlich sollte ein Schöffe mindestens 25 Jahre alt sein (§33 GVG, 1), aber nicht älter als 70 Jahre alt (§ 33 GVG, 2)."
+        "explanation": "Ein Schöffe ist in Deutschland ein ehrenamtlicher Richter./n Entsprechend §31 Gerichtsverfassungsgesetz (GVG) kann nur ein deutscher Staatsbürger zum Schöffen gewählt werden. Zusätzlich sollte ein Schöffe mindestens 25 Jahre alt sein (§33 GVG, 1), aber nicht älter als 70 Jahre alt (§ 33 GVG, 2).",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 150",
@@ -1651,7 +2101,10 @@
         "answerC": "ein Mitglied eines Gemeinderats.",
         "answerD": "eine Person, die Jura studiert hat.",
         "correctAnswer": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
-        "explanation": "Ein Gerichtsschöffe / eine Gerichtsschöffin ist in Deutschland ein ehrenamtlicher Richter / eine ehrenamtliche Richterin. Näheres wird im §31 Gerichtsverfassungsgesetz (GVG) geregelt."
+        "explanation": "Ein Gerichtsschöffe / eine Gerichtsschöffin ist in Deutschland ein ehrenamtlicher Richter / eine ehrenamtliche Richterin. Näheres wird im §31 Gerichtsverfassungsgesetz (GVG) geregelt.",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 151",
@@ -1662,7 +2115,10 @@
         "answerC": "die DDR",
         "answerD": "die USA",
         "correctAnswer": "die DDR",
-        "explanation": "Die DDR baute die Berliner Mauer ab August 1961."
+        "explanation": "Die DDR baute die Berliner Mauer ab August 1961.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Wichtige Stationen nach 1945 "
     },
     {
         "number": "Frage 152",
@@ -1673,7 +2129,10 @@
         "answerC": "1933 bis 1945",
         "answerD": "1945 bis 1989",
         "correctAnswer": "1933 bis 1945",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 153",
@@ -1684,7 +2143,10 @@
         "answerC": "Wahl von Konrad Adenauer zum Bundeskanzler",
         "answerD": "Ende des Zweiten Weltkriegs in Europa",
         "correctAnswer": "Ende des Zweiten Weltkriegs in Europa",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 154",
@@ -1695,7 +2157,10 @@
         "answerC": "1949",
         "answerD": "1961",
         "correctAnswer": "1945",
-        "explanation": "Der Zweite Weltkrieg endete am 2. September 1945 mit der Kapitulation Japans. In Europa endete der Krieg bereits am 8. Mai 1945 mit der bedingungslosen Kapitulation der deutschen Wehrmacht."
+        "explanation": "Der Zweite Weltkrieg endete am 2. September 1945 mit der Kapitulation Japans. In Europa endete der Krieg bereits am 8. Mai 1945 mit der bedingungslosen Kapitulation der deutschen Wehrmacht.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 155",
@@ -1706,7 +2171,10 @@
         "answerC": "1933 bis 1945",
         "answerD": "1949 bis 1963",
         "correctAnswer": "1933 bis 1945",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 156",
@@ -1717,7 +2185,10 @@
         "answerC": "1933",
         "answerD": "1936",
         "correctAnswer": "1933",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 157",
@@ -1728,7 +2199,10 @@
         "answerC": "eine Monarchie.",
         "answerD": "ein Fürstentum.",
         "correctAnswer": "eine Diktatur.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 158",
@@ -1739,7 +2213,10 @@
         "answerC": "Monarchie",
         "answerD": "Räterepublik",
         "correctAnswer": "Diktatur",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 159",
@@ -1750,7 +2227,10 @@
         "answerC": "willkürliche Verhaftungen",
         "answerD": "Verfolgung der Juden",
         "correctAnswer": "freie Wahlen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 160",
@@ -1761,7 +2241,10 @@
         "answerC": "der Vietnamkrieg",
         "answerD": "der Golfkrieg",
         "correctAnswer": "der Zweite Weltkrieg",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 161",
@@ -1772,7 +2255,10 @@
         "answerC": "der allgemeinen Religionsfreiheit",
         "answerD": "der Entwicklung der Demokratie",
         "correctAnswer": "des staatlichen Rassismus",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 162",
@@ -1783,7 +2269,10 @@
         "answerC": "den Aufbau der Wehrmacht.",
         "answerD": "das Attentat auf Hitler am 20. Juli 1944.",
         "correctAnswer": "das Attentat auf Hitler am 20. Juli 1944.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 163",
@@ -1794,7 +2283,10 @@
         "answerC": "1938",
         "answerD": "1945",
         "correctAnswer": "1938",
-        "explanation": "In der Nacht vom 9. auf den 10. November 1938 fanden in Deutschland und Österreich Angriffe auf Juden, jüdische Gebetshäuser, Geschäfte und Häuser statt. Die Angriffe wurden vom nationalsozialistischen Regime organisiert und gelenkt."
+        "explanation": "In der Nacht vom 9. auf den 10. November 1938 fanden in Deutschland und Österreich Angriffe auf Juden, jüdische Gebetshäuser, Geschäfte und Häuser statt. Die Angriffe wurden vom nationalsozialistischen Regime organisiert und gelenkt.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 164",
@@ -1805,7 +2297,10 @@
         "answerC": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
         "answerD": "Hitler wird Reichspräsident und lässt alle Parteien verbieten.",
         "correctAnswer": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
-        "explanation": "In der Nacht vom 9. auf den 10. November 1938 fanden in Deutschland und Österreich Angriffe auf Juden, ihre Gebetshäuser, Geschäfte und Häuser statt. Die Angriffe wurden vom nationalsozialistischen Regime organisiert und gelenkt./n Der Zweite Weltkrieg begann kaum ein Jahr später: am 1. September 1939 mit dem Überfall auf Polen./n Hitler wurde bereits 1933 zum Reichspräsident."
+        "explanation": "In der Nacht vom 9. auf den 10. November 1938 fanden in Deutschland und Österreich Angriffe auf Juden, ihre Gebetshäuser, Geschäfte und Häuser statt. Die Angriffe wurden vom nationalsozialistischen Regime organisiert und gelenkt./n Der Zweite Weltkrieg begann kaum ein Jahr später: am 1. September 1939 mit dem Überfall auf Polen./n Hitler wurde bereits 1933 zum Reichspräsident.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 165",
@@ -1816,7 +2311,10 @@
         "answerC": "Helmut Schmidt",
         "answerD": "Willy Brandt",
         "correctAnswer": "Konrad Adenauer",
-        "explanation": "Konrad Adenauer war von 1949 bis 1963 der erste Bundeskanzler der Bundesrepublik Deutschland."
+        "explanation": "Konrad Adenauer war von 1949 bis 1963 der erste Bundeskanzler der Bundesrepublik Deutschland.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Wichtige Stationen nach 1945 "
     },
     {
         "number": "Frage 166",
@@ -1827,7 +2325,10 @@
         "answerC": "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
         "answerD": "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
         "correctAnswer": "bei den Montagsdemonstrationen 1989 in der DDR",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 167",
@@ -1838,7 +2339,10 @@
         "answerC": "USA, Sowjetunion, Spanien, Portugal",
         "answerD": "USA, Sowjetunion, Großbritannien, Frankreich",
         "correctAnswer": "USA, Sowjetunion, Großbritannien, Frankreich",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 168",
@@ -1849,7 +2353,10 @@
         "answerC": "Frankreich",
         "answerD": "Japan",
         "correctAnswer": "Japan",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 169",
@@ -1860,7 +2367,10 @@
         "answerC": "1949",
         "answerD": "1951",
         "correctAnswer": "1949",
-        "explanation": "Die Bundesrepublik Deutschland wurde am 23. Mai 1949 gegründet."
+        "explanation": "Die Bundesrepublik Deutschland wurde am 23. Mai 1949 gegründet.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 170",
@@ -1871,7 +2381,10 @@
         "answerC": "das Verbot von Parteien",
         "answerD": "den Schutz der Menschenwürde",
         "correctAnswer": "das Verbot von Parteien",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 171",
@@ -1882,7 +2395,10 @@
         "answerC": "richtet sich nach der Nachfrage im Ausland.",
         "answerD": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
         "correctAnswer": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 172",
@@ -1893,7 +2409,10 @@
         "answerC": "britischen Besatzungszone.",
         "answerD": "sowjetischen Besatzungszone.",
         "correctAnswer": "sowjetischen Besatzungszone.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 173",
@@ -1904,7 +2423,10 @@
         "answerC": "der Europäischen Union (EU).",
         "answerD": "des Warschauer Pakts.",
         "correctAnswer": "der Europäischen Union (EU).",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 174",
@@ -1915,7 +2437,10 @@
         "answerC": "1953",
         "answerD": "1956",
         "correctAnswer": "1949",
-        "explanation": "Die Deutsche Demokratische Republik (DDR) wurde am 7. Oktober 1949 gegründet."
+        "explanation": "Die Deutsche Demokratische Republik (DDR) wurde am 7. Oktober 1949 gegründet.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 175",
@@ -1926,7 +2451,10 @@
         "answerC": "5",
         "answerD": "6",
         "correctAnswer": "4",
-        "explanation": "Deutschland wurde nach dem Zweiten Weltkrieg in vier Besatzungszonen aufgeteilt: (1) Großbritannien im Nord-Westen (2) Sowjetunion im Nord-Osten (3) USA im Süd-Osten, und (4) Frankreich im Süd-Westen."
+        "explanation": "Deutschland wurde nach dem Zweiten Weltkrieg in vier Besatzungszonen aufgeteilt: (1) Großbritannien im Nord-Westen (2) Sowjetunion im Nord-Osten (3) USA im Süd-Osten, und (4) Frankreich im Süd-Westen.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen"
     },
     {
         "number": "Frage 176",
@@ -1937,7 +2465,10 @@
         "answerC": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
         "answerD": "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich",
         "correctAnswer": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
-        "explanation": "Deutschland wurde nach dem Zweiten Weltkrieg in vier Besatzungszonen aufgeteilt: (1) Großbritannien im Nord-Westen (2) Sowjetunion im Nord-Osten (3) USA im Süd-Osten, und (4) Frankreich im Süd-Westen."
+        "explanation": "Deutschland wurde nach dem Zweiten Weltkrieg in vier Besatzungszonen aufgeteilt: (1) Großbritannien im Nord-Westen (2) Sowjetunion im Nord-Osten (3) USA im Süd-Osten, und (4) Frankreich im Süd-Westen.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen"
     },
     {
         "number": "Frage 177",
@@ -1948,7 +2479,10 @@
         "answerC": "Dresden",
         "answerD": "Frankfurt/Oder",
         "correctAnswer": "Berlin",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen"
     },
     {
         "number": "Frage 178",
@@ -1959,7 +2493,10 @@
         "answerC": "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
         "answerD": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
         "correctAnswer": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 179",
@@ -1970,7 +2507,10 @@
         "answerC": "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
         "answerD": "durch eine Revolution in Deutschland",
         "correctAnswer": "durch die bedingungslose Kapitulation Deutschlands",
-        "explanation": "Der Zweite Weltkrieg endete in Europa mit der bedingungslosen Kapitulation Deutschlands am 8. Mai 1945."
+        "explanation": "Der Zweite Weltkrieg endete in Europa mit der bedingungslosen Kapitulation Deutschlands am 8. Mai 1945.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen "
     },
     {
         "number": "Frage 180",
@@ -1981,7 +2521,10 @@
         "answerC": "Konrad Adenauer.",
         "answerD": "Gerhard Schröder.",
         "correctAnswer": "Konrad Adenauer.",
-        "explanation": "Konrad Adenauer war von 1949 bis 1963 der erste Bundeskanzler der Bundesrepublik Deutschland."
+        "explanation": "Konrad Adenauer war von 1949 bis 1963 der erste Bundeskanzler der Bundesrepublik Deutschland.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 181",
@@ -1992,7 +2535,10 @@
         "answerC": "Er zeigte seine Demut vor dem Warschauer Pakt.",
         "answerD": "Er sprach ein Gebet am Grab des Unbekannten Soldaten.",
         "correctAnswer": "Er bat Polen und die polnischen Juden um Vergebung.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 182",
@@ -2003,7 +2549,10 @@
         "answerC": "CDU und FDP",
         "answerD": "KPD und CSU",
         "correctAnswer": "KPD und SPD",
-        "explanation": "Am 21./22. April 1946 fusionierten in der Sowjetischen Besatzungszone die Kommunistische Partei Deutschlands (KPD) und die Sozialdemokratische Partei Deutschlands (SPD) unter Druck der sowjetischen Besatzung zur Sozialistischen Einheitspartei Deutschlands (SED)."
+        "explanation": "Am 21./22. April 1946 fusionierten in der Sowjetischen Besatzungszone die Kommunistische Partei Deutschlands (KPD) und die Sozialdemokratische Partei Deutschlands (SPD) unter Druck der sowjetischen Besatzung zur Sozialistischen Einheitspartei Deutschlands (SED).",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 183",
@@ -2014,7 +2563,10 @@
         "answerC": "70er Jahre",
         "answerD": "80er Jahre",
         "correctAnswer": "50er Jahre",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 184",
@@ -2025,7 +2577,10 @@
         "answerC": "Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.",
         "answerD": "Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird.",
         "correctAnswer": "Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.",
-        "explanation": "Als „Stunde Null“ bezeichnet man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus in Deutschland (und Österreich). Damit möchte man betonen, dass die Bundesrepublik Deutschland von Grund auf neu augebaut wird. Man distanziert sich von den Verbrechen der NS-Zeit und baut einen neuen, demokratischen Staat auf."
+        "explanation": "Als „Stunde Null“ bezeichnet man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus in Deutschland (und Österreich). Damit möchte man betonen, dass die Bundesrepublik Deutschland von Grund auf neu augebaut wird. Man distanziert sich von den Verbrechen der NS-Zeit und baut einen neuen, demokratischen Staat auf.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen"
     },
     {
         "number": "Frage 185",
@@ -2036,7 +2591,10 @@
         "answerC": "Nazi-Deutschlands gegen die Alliierten.",
         "answerD": "Europas gegen die USA.",
         "correctAnswer": "des Warschauer Pakts gegen den Westen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 186",
@@ -2047,7 +2605,10 @@
         "answerC": "20. Juli",
         "answerD": "9. November",
         "correctAnswer": "17. Juni",
-        "explanation": "Die Unzufriedenheit der Menschen in der frischgegründeten DDR gipfelte am 17. Juni 1953 in einem Volksaufstand.//n Bis zur Wiedervereinigung im Jahre 1990 wurde der 17. Juni in der damaligen Bundesrepublik Deutschland als „Tag der deutschen Einheit“ gefeiert. Seit 1991 ist der 17. Juni ein Gedenktag."
+        "explanation": "Die Unzufriedenheit der Menschen in der frischgegründeten DDR gipfelte am 17. Juni 1953 in einem Volksaufstand.//n Bis zur Wiedervereinigung im Jahre 1990 wurde der 17. Juni in der damaligen Bundesrepublik Deutschland als „Tag der deutschen Einheit“ gefeiert. Seit 1991 ist der 17. Juni ein Gedenktag.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 187",
@@ -2058,7 +2619,10 @@
         "answerC": "DDR",
         "answerD": "„Drittes Reich“",
         "correctAnswer": "DDR",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 188",
@@ -2069,7 +2633,10 @@
         "answerC": "1959",
         "answerD": "1961",
         "correctAnswer": "1961",
-        "explanation": "Die Berliner Mauer wurde ab August 1961 errichtet."
+        "explanation": "Die Berliner Mauer wurde ab August 1961 errichtet.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 189",
@@ -2080,7 +2647,10 @@
         "answerC": "1961",
         "answerD": "1990",
         "correctAnswer": "1961",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 190",
@@ -2091,7 +2661,10 @@
         "answerC": "Dritte Deutsche Republik",
         "answerD": "Deutsche Demokratische Republik",
         "correctAnswer": "Deutsche Demokratische Republik",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 191",
@@ -2102,7 +2675,10 @@
         "answerC": "1992",
         "answerD": "1995",
         "correctAnswer": "1989",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 192",
@@ -2113,7 +2689,10 @@
         "answerC": "Saarland",
         "answerD": "Hessen",
         "correctAnswer": "Brandenburg",
-        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen"
+        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 193",
@@ -2124,7 +2703,10 @@
         "answerC": "durch eine Mauer geteilt.",
         "answerD": "nur mit dem Flugzeug erreichbar.",
         "correctAnswer": "durch eine Mauer geteilt.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 194",
@@ -2135,7 +2717,10 @@
         "answerC": "Bundesländer",
         "answerD": "Städte",
         "correctAnswer": "Einheit",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 195",
@@ -2146,7 +2731,10 @@
         "answerC": "Nordrhein-Westfalen",
         "answerD": "Saarland",
         "correctAnswer": "Sachsen-Anhalt",
-        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen"
+        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 196",
@@ -2157,7 +2745,10 @@
         "answerC": "von einer Monarchie zur Sozialdemokratie.",
         "answerD": "von einem religiösen Staat zu einem kommunistischen Staat.",
         "correctAnswer": "von einer Diktatur zur Demokratie.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 197",
@@ -2168,7 +2759,10 @@
         "answerC": "Bayern",
         "answerD": "Bremen",
         "correctAnswer": "Thüringen",
-        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen"
+        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 198",
@@ -2179,7 +2773,10 @@
         "answerC": "Sachsen",
         "answerD": "Baden-Württemberg",
         "correctAnswer": "Sachsen",
-        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen"
+        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 199",
@@ -2190,7 +2787,10 @@
         "answerC": "eine regierende Partei.",
         "answerD": "das Ministerium für Volksbildung.",
         "correctAnswer": "das Ministerium für Staatssicherheit.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 200",
@@ -2201,7 +2801,10 @@
         "answerC": "Mecklenburg-Vorpommern",
         "answerD": "Saarland",
         "correctAnswer": "Mecklenburg-Vorpommern",
-        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen"
+        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 201",
@@ -2212,7 +2815,10 @@
         "answerC": "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
         "answerD": "Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg",
         "correctAnswer": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
-        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen"
+        "explanation": "Bei der Wiedervereinigung im Jahre 1990 kamen fünf neue Bundesländer zur Bundesrepublik Deutschland hinzu: 1. Brandenburg 2.Mecklenburg-Vorpommern 3. Sachsen 4. Sachsen-Anhalt 5. Thüringen",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 202",
@@ -2223,7 +2829,10 @@
         "answerC": "zur NATO",
         "answerD": "zu den blockfreien Staaten",
         "correctAnswer": "zum Warschauer Pakt",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 203",
@@ -2234,7 +2843,10 @@
         "answerC": "Angebot und Nachfrage",
         "answerD": "Kapitalismus",
         "correctAnswer": "Planwirtschaft",
-        "explanation": "In der DDR wurden die wirtschaftlichen Entwicklungen ausgehend von gesellschaftlichen Bedürfnissen für die Folgejahre geplant, meist für 1 oder 5 Jahre."
+        "explanation": "In der DDR wurden die wirtschaftlichen Entwicklungen ausgehend von gesellschaftlichen Bedürfnissen für die Folgejahre geplant, meist für 1 oder 5 Jahre.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 204",
@@ -2245,7 +2857,10 @@
         "answerC": "Die westlichen Bundesländer sind der DDR beigetreten.",
         "answerD": "Die DDR hat die Bundesrepublik Deutschland besetzt.",
         "correctAnswer": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 205",
@@ -2256,7 +2871,10 @@
         "answerC": "zur OPEC.",
         "answerD": "zur Europäischen Verteidigungsgemeinschaft.",
         "correctAnswer": "zur Europäischen Union.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 206",
@@ -2267,7 +2885,10 @@
         "answerC": "Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.",
         "answerD": "Montags demonstrierte man in der DDR gegen den Westen.",
         "correctAnswer": "Montags waren Demonstrationen gegen das DDR-Regime.",
-        "explanation": "Ab dem 4. September 1989 fanden in Leipzig Massendemonstrationen gegen die politische Ordnung in der Deutschen Demokratischen Republik (DDR) statt. Die Demonstrationen weiteten sich rasch auf weitere Städte der DDR aus."
+        "explanation": "Ab dem 4. September 1989 fanden in Leipzig Massendemonstrationen gegen die politische Ordnung in der Deutschen Demokratischen Republik (DDR) statt. Die Demonstrationen weiteten sich rasch auf weitere Städte der DDR aus.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 207",
@@ -2278,7 +2899,10 @@
         "answerC": "im Warschauer Pakt",
         "answerD": "im Europabündnis",
         "correctAnswer": "im Warschauer Pakt",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 208",
@@ -2289,7 +2913,10 @@
         "answerC": "der Geheimdienst der DDR",
         "answerD": "ein deutscher Sportverein während des Zweiten Weltkrieges",
         "correctAnswer": "der Geheimdienst der DDR",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 209",
@@ -2300,7 +2927,10 @@
         "answerC": "3",
         "answerD": "4",
         "correctAnswer": "4",
-        "explanation": "Hier wird nach dem Wappen der Deutschen Demokratischen Republik (DDR) gesucht. Dieses ist bei Bild Nr. 4 zu sehen: ein Ährenkranz mit Hammer und Zirkel."
+        "explanation": "Hier wird nach dem Wappen der Deutschen Demokratischen Republik (DDR) gesucht. Dieses ist bei Bild Nr. 4 zu sehen: ein Ährenkranz mit Hammer und Zirkel.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 210",
@@ -2311,7 +2941,10 @@
         "answerC": "der 1. SED-Parteitag",
         "answerD": "der erste Besuch Fidel Castros",
         "correctAnswer": "landesweite Streiks und ein Volksaufstand",
-        "explanation": "Die Unzufriedenheit der Menschen in der frischgegründeten DDR gipfelte am 17. Juni 1953 in einem Volksaufstand.//n Bis zur Wiedervereinigung im Jahre 1990 wurde der 17. Juni in der damaligen Bundesrepublik Deutschland als „Tag der deutschen Einheit“ gefeiert. Seit 1991 ist der 17. Juni ein Gedenktag."
+        "explanation": "Die Unzufriedenheit der Menschen in der frischgegründeten DDR gipfelte am 17. Juni 1953 in einem Volksaufstand.//n Bis zur Wiedervereinigung im Jahre 1990 wurde der 17. Juni in der damaligen Bundesrepublik Deutschland als „Tag der deutschen Einheit“ gefeiert. Seit 1991 ist der 17. Juni ein Gedenktag.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 211",
@@ -2322,7 +2955,10 @@
         "answerC": "Michail Gorbatschow",
         "answerD": "Ludwig Erhard",
         "correctAnswer": "Willy Brandt",
-        "explanation": "Als „Ostverträge“ werden Vereinbarungen der BRD mit DDR, Sowjetunion und anderen osteuropäischen Staaten bezeichnet. Diese Entspannungspolitik gegenüber dem Osten wurde von Willy Brandt vorangetrieben."
+        "explanation": "Als „Ostverträge“ werden Vereinbarungen der BRD mit DDR, Sowjetunion und anderen osteuropäischen Staaten bezeichnet. Diese Entspannungspolitik gegenüber dem Osten wurde von Willy Brandt vorangetrieben.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 212",
@@ -2333,7 +2969,10 @@
         "answerC": "Bundesrepublik Deutschland",
         "answerD": "Bundesbezirk Deutschland",
         "correctAnswer": "Bundesrepublik Deutschland",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 213",
@@ -2344,7 +2983,10 @@
         "answerC": "80 Millionen",
         "answerD": "90 Millionen",
         "correctAnswer": "80 Millionen",
-        "explanation": "Derzeit hat Deutschland ca. 83 Milionen Einwohner.//n Der Einbürgerungstest geht von einem etwas älteren Stand ausm daher wird die Antwort „80 Milionen“ als richtig gewertet."
+        "explanation": "Derzeit hat Deutschland ca. 83 Milionen Einwohner.//n Der Einbürgerungstest geht von einem etwas älteren Stand ausm daher wird die Antwort „80 Milionen“ als richtig gewertet.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 214",
@@ -2355,7 +2997,10 @@
         "answerC": "schwarz-rot-grün",
         "answerD": "schwarz-gelb-rot",
         "correctAnswer": "schwarz-rot-gold",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Staatssymbole"
     },
     {
         "number": "Frage 215",
@@ -2366,7 +3011,10 @@
         "answerC": "Konrad Adenauer",
         "answerD": "Helmut Schmidt",
         "correctAnswer": "Helmut Kohl",
-        "explanation": "Helmut Kohl wird häufig als „Kanzler der Deutschen Einheit“ bezeichnet. Er setzte sich stark für die Wiedervereinigung Deutschlands ein. Unter anderem reichte er das „Zehn-Punkte-Programm zur Überwindung der Teilung Deutschlands und Europas“ im Bundestag ein."
+        "explanation": "Helmut Kohl wird häufig als „Kanzler der Deutschen Einheit“ bezeichnet. Er setzte sich stark für die Wiedervereinigung Deutschlands ein. Unter anderem reichte er das „Zehn-Punkte-Programm zur Überwindung der Teilung Deutschlands und Europas“ im Bundestag ein.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 216",
@@ -2377,7 +3025,10 @@
         "answerC": "der Reichsadler.",
         "answerD": "die Reichskrone.",
         "correctAnswer": "der Bundesadler.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Staatssymbole"
     },
     {
         "number": "Frage 217",
@@ -2388,7 +3039,10 @@
         "answerC": "1949 bis 1990",
         "answerD": "1945 bis 1961",
         "correctAnswer": "1949 bis 1990",
-        "explanation": "Die DDR wurde 1949 gegründet und existierte bis zur Wiedervereinigung im Jahre 1990."
+        "explanation": "Die DDR wurde 1949 gegründet und existierte bis zur Wiedervereinigung im Jahre 1990.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wichtige Stationen nach 1945"
     },
     {
         "number": "Frage 218",
@@ -2399,7 +3053,10 @@
         "answerC": "6",
         "answerD": "7",
         "correctAnswer": "5",
-        "explanation": "Mit Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen waren es fünf neue Bundesländer. Berlin zählt hierbei nicht zu den neuen Bundesländern."
+        "explanation": "Mit Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen waren es fünf neue Bundesländer. Berlin zählt hierbei nicht zu den neuen Bundesländern.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 219",
@@ -2410,7 +3067,10 @@
         "answerC": "1971",
         "answerD": "1990",
         "correctAnswer": "1990",
-        "explanation": "Die heutigen Grenzen der Bundesrepublik Deutschland bestehen seit der Wiedervereinigung am 3. Oktober 1990."
+        "explanation": "Die heutigen Grenzen der Bundesrepublik Deutschland bestehen seit der Wiedervereinigung am 3. Oktober 1990.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 220",
@@ -2421,7 +3081,10 @@
         "answerC": "an die Wiedervereinigung Deutschlands",
         "answerD": "an die Opfer des Nationalsozialismus",
         "correctAnswer": "Bundesrepublik Deutschland",
-        "explanation": "Der 27. Januar ist in Deutschland ein offizieller, bundesweiter Gedenktag, der an die Opfer des Nationalsozialismus erinnert. Es ist ein Jahrestag der Befreiung der Vernichtungslager in Auschwitz durch die Rote Armee am 27. Januar 1945.//n Im Jahre 2005 wurde der 27. Januar zum Internationalen Tag des Gedenkens an die Opfer des Holocaust von den Vereinten Nationen ernannt. Inzwischen ist es auch ein Gedenktag in vielen Staaten Europas."
+        "explanation": "Der 27. Januar ist in Deutschland ein offizieller, bundesweiter Gedenktag, der an die Opfer des Nationalsozialismus erinnert. Es ist ein Jahrestag der Befreiung der Vernichtungslager in Auschwitz durch die Rote Armee am 27. Januar 1945.//n Im Jahre 2005 wurde der 27. Januar zum Internationalen Tag des Gedenkens an die Opfer des Holocaust von den Vereinten Nationen ernannt. Inzwischen ist es auch ein Gedenktag in vielen Staaten Europas.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung ",
+        "Thema": "Der Nationalsozialismus und seine Folgen"
     },
     {
         "number": "Frage 221",
@@ -2432,7 +3095,10 @@
         "answerC": "Deutsche können ohne Passkontrolle in jedes Land reisen.",
         "answerD": "Deutsche können in jedem Land mit dem Euro bezahlen.",
         "correctAnswer": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 222",
@@ -2443,7 +3109,10 @@
         "answerC": "Spanien",
         "answerD": "Schweiz",
         "correctAnswer": "Schweiz",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 223",
@@ -2454,7 +3123,10 @@
         "answerC": "Polen",
         "answerD": "Griechenland",
         "correctAnswer": "Polen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 224",
@@ -2465,7 +3137,10 @@
         "answerC": "Einheitliche Union",
         "answerD": "Euro Union",
         "correctAnswer": "Europäische Union",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 225",
@@ -2476,7 +3151,10 @@
         "answerC": "Spanien",
         "answerD": "Österreich",
         "correctAnswer": "Österreich",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 226",
@@ -2487,7 +3165,10 @@
         "answerC": "4",
         "answerD": "3",
         "correctAnswer": "2",
-        "explanation": "1) Flagge der Vereinigten Staaten von Amerika (USA): horizontalle Streifen, welche die Gründerstaaten repräsentieren, und ein dunkelblaues Feld mit 50 Sternen, welche die aktuellen Staaten repräsentieren.//n 2) Flagge der Europäischen Union (EU): zwölf goldene Sterne aud blauem Hintergrund. Die Zahl der EU-Mitgliedsländer hat dabei keine Bedeutung, wenngleich zufällig zu der Zeit der Entstehung der Flagge (1986) die EG aus zwölf Mitgliedsstaaten bestand.//n 3) Flagge der Vereinten Nationen (UN): Weltkarte umrandet von Olivenzweigen auf helleblauem Hintergrund."
+        "explanation": "1) Flagge der Vereinigten Staaten von Amerika (USA): horizontalle Streifen, welche die Gründerstaaten repräsentieren, und ein dunkelblaues Feld mit 50 Sternen, welche die aktuellen Staaten repräsentieren.//n 2) Flagge der Europäischen Union (EU): zwölf goldene Sterne aud blauem Hintergrund. Die Zahl der EU-Mitgliedsländer hat dabei keine Bedeutung, wenngleich zufällig zu der Zeit der Entstehung der Flagge (1986) die EG aus zwölf Mitgliedsstaaten bestand.//n 3) Flagge der Vereinten Nationen (UN): Weltkarte umrandet von Olivenzweigen auf helleblauem Hintergrund.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 227",
@@ -2498,7 +3179,10 @@
         "answerC": "Norwegen",
         "answerD": "Schweden",
         "correctAnswer": "Dänemark",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 228",
@@ -2509,7 +3193,10 @@
         "answerC": "Europäische Gemeinschaft",
         "answerD": "Deutsche Wiedervereinigung",
         "correctAnswer": "Deutsche Wiedervereinigung",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Wiedervereinigung"
     },
     {
         "number": "Frage 229",
@@ -2520,7 +3207,10 @@
         "answerC": "Norwegen",
         "answerD": "Luxemburg",
         "correctAnswer": "Luxemburg",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 230",
@@ -2531,7 +3221,10 @@
         "answerC": "7 Jahre.",
         "answerD": "8 Jahre.",
         "correctAnswer": "5 Jahre.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 231",
@@ -2542,7 +3235,10 @@
         "answerC": "Damit sind europäische Auswanderer in den USA gemeint.",
         "answerD": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
         "correctAnswer": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 232",
@@ -2553,7 +3249,10 @@
         "answerC": "die europäische Verfassung",
         "answerD": "die Abgeordneten des Europäischen Parlaments",
         "correctAnswer": "die Abgeordneten des Europäischen Parlaments",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 233",
@@ -2564,7 +3263,10 @@
         "answerC": "Griechenland",
         "answerD": "Portugal",
         "correctAnswer": "Tschechien",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 234",
@@ -2575,7 +3277,10 @@
         "answerC": "Berlin",
         "answerD": "Straßburg",
         "correctAnswer": "Straßburg",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 235",
@@ -2586,7 +3291,10 @@
         "answerC": "Frieden und Sicherheit in den Ländern der EU",
         "answerD": "Einheitliche Feiertage in den Ländern der EU",
         "correctAnswer": "Frieden und Sicherheit in den Ländern der EU",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 236",
@@ -2597,7 +3305,10 @@
         "answerC": "25",
         "answerD": "27",
         "correctAnswer": "27",
-        "explanation": "Die Europäische Union (EU) bestand seit dem 1. Juli 2013 aus 28 Mitgliedstaaten: Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Vereinigtes Königreich, Zypern.//n Im Jahre 2020 verließ das Vereinigte Königreich die EU."
+        "explanation": "Die Europäische Union (EU) bestand seit dem 1. Juli 2013 aus 28 Mitgliedstaaten: Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Vereinigtes Königreich, Zypern.//n Im Jahre 2020 verließ das Vereinigte Königreich die EU.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 237",
@@ -2608,7 +3319,10 @@
         "answerC": "Verpflichtung Deutschlands zu Reparationsleistungen",
         "answerD": "Festlegung der Oder-Neiße-Linie als Ostgrenze",
         "correctAnswer": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
-        "explanation": "Durch die Römischen Verträge (bzw. den Vertrag von Rom) wurden am 25. März 1957 u.a. die Europäischen Wirtschaftsgemeinschaft (EWG) und Europäische Atomgemeinschaft (EURATOM) gegründet."
+        "explanation": "Durch die Römischen Verträge (bzw. den Vertrag von Rom) wurden am 25. März 1957 u.a. die Europäischen Wirtschaftsgemeinschaft (EWG) und Europäische Atomgemeinschaft (EURATOM) gegründet.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 238",
@@ -2619,7 +3333,10 @@
         "answerC": "Rom, Bern und Wien",
         "answerD": "Bonn, Zürich und Mailand",
         "correctAnswer": "Straßburg, Luxemburg und Brüssel",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 239",
@@ -2630,7 +3347,10 @@
         "answerC": "durch die „Pariser Verträge“",
         "answerD": "durch die „Londoner Verträge“",
         "correctAnswer": "durch die „Römischen Verträge“",
-        "explanation": "Die Römischen Verträge (bzw. der Vertrag von Rom) wurden am 25. März 1957 von Belgien, der Bundesrepublik Deutschland, Frankreich, Italien, Luxemburg und den Niederlanden in Rom unterzeichnet und traten am 1. Januar 1958 in Kraft. Durch die Verträge wurden u.a. die Europäischen Wirtschaftsgemeinschaft (EWG) und Europäische Atomgemeinschaft (EURATOM) gegründet."
+        "explanation": "Die Römischen Verträge (bzw. der Vertrag von Rom) wurden am 25. März 1957 von Belgien, der Bundesrepublik Deutschland, Frankreich, Italien, Luxemburg und den Niederlanden in Rom unterzeichnet und traten am 1. Januar 1958 in Kraft. Durch die Verträge wurden u.a. die Europäischen Wirtschaftsgemeinschaft (EWG) und Europäische Atomgemeinschaft (EURATOM) gegründet.",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 240",
@@ -2641,7 +3361,10 @@
         "answerC": "2002",
         "answerD": "2005",
         "correctAnswer": "2002",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Geschichte und Verantwortung",
+        "Thema": "Deutschland in Europa"
     },
     {
         "number": "Frage 241",
@@ -2652,7 +3375,10 @@
         "answerC": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
         "answerD": "Sie muss das Arbeitsamt um Erlaubnis bitten.",
         "correctAnswer": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 242",
@@ -2663,7 +3389,10 @@
         "answerC": "die Eltern / die Erziehungsberechtigten",
         "answerD": "die Schulen",
         "correctAnswer": "die Eltern / die Erziehungsberechtigten",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 243",
@@ -2674,7 +3403,10 @@
         "answerC": "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
         "answerD": "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.",
         "correctAnswer": "Sie müssen die Demonstration anmelden.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 244",
@@ -2685,7 +3417,10 @@
         "answerC": "die Prokura",
         "answerD": "eine Gesellenprüfung",
         "correctAnswer": "das Abitur",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Bildung"
     },
     {
         "number": "Frage 245",
@@ -2696,7 +3431,10 @@
         "answerC": "Sofie (35 Jahre) und Lisa (40 Jahre)",
         "answerD": "Anne (13 Jahre) und Tim (25 Jahre)",
         "correctAnswer": "Anne (13 Jahre) und Tim (25 Jahre)",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 246",
@@ -2707,7 +3445,10 @@
         "answerC": "19",
         "answerD": "21",
         "correctAnswer": "18",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 247",
@@ -2718,7 +3459,10 @@
         "answerC": "Mutterschutz",
         "answerD": "Wochenbett",
         "correctAnswer": "Mutterschutz",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 248",
@@ -2729,7 +3473,10 @@
         "answerC": "der Großeltern.",
         "answerD": "der Schulen.",
         "correctAnswer": "der Eltern.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Pflichten"
     },
     {
         "number": "Frage 249",
@@ -2740,7 +3487,10 @@
         "answerC": "die Verwandten",
         "answerD": "die Schulen",
         "correctAnswer": "die Eltern",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Pflichten"
     },
     {
         "number": "Frage 250",
@@ -2751,7 +3501,10 @@
         "answerC": "eine Frau ist.",
         "answerD": "Mitglied einer Partei ist.",
         "correctAnswer": "gut ausgebildet ist.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Bildung"
     },
     {
         "number": "Frage 251",
@@ -2762,7 +3515,10 @@
         "answerC": "kann man dafür nicht bestraft werden.",
         "answerD": "kann man dafür bestraft werden.",
         "correctAnswer": "kann man dafür bestraft werden.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 252",
@@ -2773,7 +3529,10 @@
         "answerC": "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
         "answerD": "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.",
         "correctAnswer": "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 253",
@@ -2784,7 +3543,10 @@
         "answerC": "beim Ordnungsamt",
         "answerD": "beim Gewerbeamt",
         "correctAnswer": "beim Einwohnermeldeamt",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 254",
@@ -2795,7 +3557,10 @@
         "answerC": "Das Besuchsrecht für die Kinder gilt ein Jahr.",
         "answerD": "Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
         "correctAnswer": "Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 255",
@@ -2806,7 +3571,10 @@
         "answerC": "Jugendamt",
         "answerD": "Gesundheitsamt",
         "correctAnswer": "Jugendamt",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 256",
@@ -2817,7 +3585,10 @@
         "answerC": "eine Genehmigung des Einwohnermeldeamts",
         "answerD": "eine Gaststättenerlaubnis von der zuständigen Behörde",
         "correctAnswer": "eine Gaststättenerlaubnis von der zuständigen Behörde",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 257",
@@ -2828,7 +3599,10 @@
         "answerC": "einer Hauptschule.",
         "answerD": "einer Privatuniversität.",
         "correctAnswer": "einem Abendgymnasium.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Bildung"
     },
     {
         "number": "Frage 258",
@@ -2839,7 +3613,10 @@
         "answerC": "Es bezahlt das Kindergeld an die Eltern.",
         "answerD": "Es kontrolliert, ob das Kind einen Kindergarten besucht.",
         "correctAnswer": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 259",
@@ -2850,7 +3627,10 @@
         "answerC": "Steuererklärung",
         "answerD": "Krankenversicherung",
         "correctAnswer": "Lehrstellensuche",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 260",
@@ -2861,7 +3641,10 @@
         "answerC": "Anspruch auf Schulgeld.",
         "answerD": "Anwesenheitspflicht",
         "correctAnswer": "Anwesenheitspflicht",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Pflichten"
     },
     {
         "number": "Frage 261",
@@ -2872,7 +3655,10 @@
         "answerC": "einer Hauptschule",
         "answerD": "einer Privatuniversität",
         "correctAnswer": "einem Abendgymnasium",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Bildung"
     },
     {
         "number": "Frage 262",
@@ -2883,7 +3669,10 @@
         "answerC": "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
         "answerD": "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.",
         "correctAnswer": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 263",
@@ -2894,7 +3683,10 @@
         "answerC": "teilen die Strafe mit ihren Eltern.",
         "answerD": "werden nicht bestraft.",
         "correctAnswer": "werden bestraft.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 264",
@@ -2905,7 +3697,10 @@
         "answerC": "beim Oktoberfest",
         "answerD": "an Pfingsten",
         "correctAnswer": "am Rosenmontag",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Interkulturelles Zusammenleben"
     },
     {
         "number": "Frage 265",
@@ -2916,7 +3711,10 @@
         "answerC": "zur Agentur für Arbeit",
         "answerD": "zum Standesamt",
         "correctAnswer": "zum Standesamt",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 266",
@@ -2927,7 +3725,10 @@
         "answerC": "wenn die Nachbarn schlafen gehen",
         "answerD": "um 0 Uhr, Mitternacht",
         "correctAnswer": "um 22 Uhr",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 267",
@@ -2938,7 +3739,10 @@
         "answerC": "Sie können zur Polizei gehen und die Tochter anzeigen.",
         "answerD": "Sie suchen einen anderen Mann für die Tochter.",
         "correctAnswer": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 268",
@@ -2949,7 +3753,10 @@
         "answerC": "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
         "answerD": "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
         "correctAnswer": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 269",
@@ -2960,7 +3767,10 @@
         "answerC": "einen Platz in einem Sportverein.",
         "answerD": "einen Ferienpass.",
         "correctAnswer": "einen Kindergartenplatz.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Bildung"
     },
     {
         "number": "Frage 270",
@@ -2971,7 +3781,10 @@
         "answerC": "zur Weiterbildung.",
         "answerD": "nur für Rentner und Rentnerinnen.",
         "correctAnswer": "zur Weiterbildung.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Bildung"
     },
     {
         "number": "Frage 271",
@@ -2982,7 +3795,10 @@
         "answerC": "sich mit Masken und Kostümen verkleiden",
         "answerD": "Kürbisse vor die Tür stellen",
         "correctAnswer": "einen Tannenbaum schmücken",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Interkulturelles Zusammenleben"
     },
     {
         "number": "Frage 272",
@@ -2993,7 +3809,10 @@
         "answerC": "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
         "answerD": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.",
         "correctAnswer": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 273",
@@ -3004,7 +3823,10 @@
         "answerC": "zum Einwohnermeldeamt.",
         "answerD": "zum Jugendamt.",
         "correctAnswer": "zum Jugendamt.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 274",
@@ -3015,7 +3837,10 @@
         "answerC": "die Schweigepflicht",
         "answerD": "die Meinungsfreiheit",
         "correctAnswer": "das Briefgeheimnis",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 275",
@@ -3026,7 +3851,10 @@
         "answerC": "die Einwilligung der Kinder",
         "answerD": "die Unterstützung eines Anwalts / einer Anwältin",
         "correctAnswer": "die Unterstützung eines Anwalts / einer Anwältin",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 276",
@@ -3037,7 +3865,10 @@
         "answerC": "Ich drohe der Person.",
         "answerD": "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.",
         "correctAnswer": "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 277",
@@ -3048,7 +3879,10 @@
         "answerC": "keine Erfahrungen in diesem Beruf hat.",
         "answerD": "Mutter ist.",
         "correctAnswer": "Mutter ist.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 278",
@@ -3059,7 +3893,10 @@
         "answerC": "zu hohe Gehaltsvorstellungen hat.",
         "answerD": "kein Englisch spricht.",
         "correctAnswer": "im Rollstuhl sitzt.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 279",
@@ -3070,7 +3907,10 @@
         "answerC": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
         "answerD": "die Adresse des nächsten Ordnungsamtes.",
         "correctAnswer": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 280",
@@ -3081,7 +3921,10 @@
         "answerC": "Einspruch einlegen.",
         "answerD": "warten, bis ein anderer Bescheid kommt.",
         "correctAnswer": "Einspruch einlegen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 281",
@@ -3092,7 +3935,10 @@
         "answerC": "Versammlungsfreiheit",
         "answerD": "Freizügigkeit",
         "correctAnswer": "Gleichbehandlung",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 282",
@@ -3103,7 +3949,10 @@
         "answerC": "Wahlhelfer / Wahlhelferin",
         "answerD": "Lehrer / Lehrerin",
         "correctAnswer": "Wahlhelfer / Wahlhelferin",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Pflichten"
     },
     {
         "number": "Frage 283",
@@ -3114,7 +3963,10 @@
         "answerC": "Ich schicke die Rechnung an die Behörde zurück.",
         "answerD": "Ich gehe mit der Rechnung zum Finanzamt.",
         "correctAnswer": "Ich lege Widerspruch bei der Behörde ein.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 284",
@@ -3125,7 +3977,10 @@
         "answerC": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
         "answerD": "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.",
         "correctAnswer": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Bildung"
     },
     {
         "number": "Frage 285",
@@ -3136,7 +3991,10 @@
         "answerC": "Beiträge zur Arbeitslosenversicherung",
         "answerD": "Beiträge zur Renten- und Krankenversicherung",
         "correctAnswer": "",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Sozialsystem"
     },
     {
         "number": "Frage 286",
@@ -3147,7 +4005,10 @@
         "answerC": "die Betriebsgruppe",
         "answerD": "das Betriebsmanagement",
         "correctAnswer": "der Betriebsrat",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 287",
@@ -3158,7 +4019,10 @@
         "answerC": "die Kündigungsfrist",
         "answerD": "die Versicherungspflicht",
         "correctAnswer": "die Kündigungsfrist",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 288",
@@ -3169,7 +4033,10 @@
         "answerC": "bei der Kommune (Stadt oder Gemeinde)",
         "answerD": "beim Gesundheitsamt",
         "correctAnswer": "bei der Kommune (Stadt oder Gemeinde)",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Kommune"
     },
     {
         "number": "Frage 289",
@@ -3180,7 +4047,10 @@
         "answerC": "er eine dunkle Haut hat.",
         "answerD": "er keine Erfahrungen im Beruf hat.",
         "correctAnswer": "er eine dunkle Haut hat.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Grundrechte"
     },
     {
         "number": "Frage 290",
@@ -3191,7 +4061,10 @@
         "answerC": "das Gerät ungefragt austauschen",
         "answerD": "die Garantie verlängern",
         "correctAnswer": "den Fernseher reklamieren",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 291",
@@ -3202,7 +4075,10 @@
         "answerC": "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
         "answerD": "die Kirche für die Steuererklärung verantwortlich ist.",
         "correctAnswer": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Politik in der Demokratie",
+        "Thema": "Recht und Alltag"
     },
     {
         "number": "Frage 292",
@@ -3213,7 +4089,10 @@
         "answerC": "Jeder kann glauben, was er möchte.",
         "answerD": "Der Staat entscheidet, an welchen Gott die Menschen glauben.",
         "correctAnswer": "Jeder kann glauben, was er möchte.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Religiöse Vielfalt"
     },
     {
         "number": "Frage 293",
@@ -3224,7 +4103,10 @@
         "answerC": "Eier bemalen",
         "answerD": "Raketen in die Luft schießen",
         "correctAnswer": "Eier bemalen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Interkulturelles Zusammenleben"
     },
     {
         "number": "Frage 294",
@@ -3235,7 +4117,10 @@
         "answerC": "internationaler Trauertag.",
         "answerD": "bayerischer Brauch.",
         "correctAnswer": "christlicher Feiertag.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Religiöse Vielfalt"
     },
     {
         "number": "Frage 295",
@@ -3246,7 +4131,10 @@
         "answerC": "der Buddhismus",
         "answerD": "der Islam",
         "correctAnswer": "das Christentum",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Religiöse Vielfalt"
     },
     {
         "number": "Frage 296",
@@ -3257,7 +4145,10 @@
         "answerC": "die Adventszeit.",
         "answerD": "Allerheiligen.",
         "correctAnswer": "die Adventszeit.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Religiöse Vielfalt"
     },
     {
         "number": "Frage 297",
@@ -3268,7 +4159,10 @@
         "answerC": "Marokko",
         "answerD": "Türkei",
         "correctAnswer": "Türkei",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Migrationsgeschichte"
     },
     {
         "number": "Frage 298",
@@ -3279,7 +4173,10 @@
         "answerC": "Chile, Ungarn, Simbabwe.",
         "answerD": "Nordkorea, Mexiko, Ägypten.",
         "correctAnswer": "Vietnam, Polen, Mosambik.",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Migrationsgeschichte"
     },
     {
         "number": "Frage 299",
@@ -3290,7 +4187,10 @@
         "answerC": "Zeitarbeiter / Zeitarbeiterinnen",
         "answerD": "Schichtarbeiter / Schichtarbeiterinnen",
         "correctAnswer": "Gastarbeiter / Gastarbeiterinnen",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Migrationsgeschichte"
     },
     {
         "number": "Frage 300",
@@ -3301,7 +4201,10 @@
         "answerC": "Portugal",
         "answerD": "Türkei",
         "correctAnswer": "Italien",
-        "explanation": ""
+        "explanation": "",
+        "image": "",
+        "Modul": "Mensch und Gesellschaft",
+        "Thema": "Migrationsgeschichte"
     }
 
 ]
